@@ -1,0 +1,6851 @@
+{
+    "locations": [
+        {
+            "name": "Blue Djinn",
+            "closeto": [
+                "Osaris",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Green Djinn",
+            "closeto": [
+                "Osaris",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Abukir",
+            "closeto": [
+                "Arak",
+                "Garrogat",
+                "Osaris"
+            ]
+        },
+        {
+            "name": "Arak",
+            "closeto": [
+                "Eschen",
+                "Garrogat",
+                "Lucindel",
+                "Osaris",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Cirone",
+            "closeto": [
+                "Garrogat"
+            ]
+        },
+        {
+            "name": "Eschen",
+            "closeto": [
+                "Arak",
+                "Lucindel",
+                "Osaris",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Garrogat",
+            "closeto": [
+                "Arak",
+                "Eschen",
+                "Lucindel",
+                "Mittenhoff",
+                "Osaris",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Lucindel",
+            "closeto": [
+                "Eschen",
+                "Garrogat",
+                "Thoris",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Mittenhoff",
+            "closeto": [
+                "Garrogat"
+            ]
+        },
+        {
+            "name": "Osaris",
+            "closeto": [
+                "Arak",
+                "Eschen",
+                "Mittenhoff",
+                "Yehsha"
+            ]
+        },
+        {
+            "name": "Outlaw Camp",
+            "closeto": [
+                "Arak",
+                "Eschen",
+                "Mittenhoff"
+            ]
+        },
+        {
+            "name": "Thoris",
+            "closeto": [
+                "Arak",
+                "Lucindel",
+                "Eschen",
+                "Garrogat"
+            ]
+        },
+        {
+            "name": "Yehsha",
+            "closeto": [
+                "Arak",
+                "Eschen",
+                "Garrogat",
+                "Osaris"
+            ]
+        },
+        {
+            "name": "Sheol",
+            "closeto": []
+        },
+        {
+            "name": "Icenhaal",
+            "closeto": [
+                "Thoris"
+            ]
+        }
+    ],
+    "npcs": [
+        {
+            "name": "Nah'Bob",
+            "location": "Blue Djinn",
+            "questlink": "http://wiki.mediviastats.info/The_Djinn_War_-_Marid_Faction"
+        },
+        {
+            "name": "Haroun",
+            "location": "Blue Djinn",
+            "questlink": "http://wiki.mediviastats.info/The_Djinn_War_-_Marid_Faction"
+        },
+        {
+            "name": "Alesar",
+            "location": "Green Djinn",
+            "questlink": "http://wiki.mediviastats.info/The_Djinn_War_-_Efreet_Faction"
+        },
+        {
+            "name": "Yaman",
+            "location": "Green Djinn",
+            "questlink": "http://wiki.mediviastats.info/The_Djinn_War_-_Efreet_Faction"
+        },
+        {
+            "name": "Aremis",
+            "location": "Abukir",
+            "questlink": "http://wiki.mediviastats.info/Helping_a_friend_Aremis_Quest"
+        },
+        {
+            "name": "Evona",
+            "location": "Abukir"
+        },
+        {
+            "name": "Wulkan",
+            "location": "Abukir",
+            "questlink": "http://wiki.mediviastats.info/Helping_a_friend_Wulkan_Quest"
+        },
+        {
+            "name": "Annushka",
+            "location": "Arak"
+        },
+        {
+            "name": "Bronislav",
+            "location": "Arak"
+        },
+        {
+            "name": "Draculd",
+            "location": "Arak",
+            "questlink": "http://wiki.mediviastats.info/Lightbringer_Faction"
+        },
+        {
+            "name": "Lona",
+            "location": "Cirone"
+        },
+        {
+            "name": "Andre",
+            "location": "Eschen"
+        },
+        {
+            "name": "Dianne",
+            "location": "Eschen"
+        },
+        {
+            "name": "Jodi",
+            "location": "Garrogat"
+        },
+        {
+            "name": "Leunaurd",
+            "location": "Garrogat"
+        },
+        {
+            "name": "Risdarick",
+            "location": "Garrogat"
+        },
+        {
+            "name": "Dalos",
+            "location": "Lucindel"
+        },
+        {
+            "name": "Edea",
+            "location": "Lucindel"
+        },
+        {
+            "name": "Valandril",
+            "location": "Lucindel"
+        },
+        {
+            "name": "Dosli",
+            "location": "Mittenhoff"
+        },
+        {
+            "name": "Glorin",
+            "location": "Mittenhoff"
+        },
+        {
+            "name": "Rorin",
+            "location": "Mittenhoff"
+        },
+        {
+            "name": "Arses",
+            "location": "Osaris"
+        },
+        {
+            "name": "Hasain",
+            "location": "Osaris"
+        },
+        {
+            "name": "Horif",
+            "location": "Osaris"
+        },
+        {
+            "name": "Lihsha",
+            "location": "Osaris"
+        },
+        {
+            "name": "Lizbeth",
+            "location": "Icenhaal"
+        },
+        {
+            "name": "P.K.",
+            "location": "Outlaw Camp"
+        },
+        {
+            "name": "Astrid",
+            "location": "Thoris"
+        },
+        {
+            "name": "Cord",
+            "location": "Thoris"
+        },
+        {
+            "name": "Dietrich",
+            "location": "Thoris"
+        },
+        {
+            "name": "Aadim",
+            "location": "Yehsha"
+        },
+        {
+            "name": "Asha",
+            "location": "Yehsha"
+        },
+        {
+            "name": "Haffnal",
+            "location": "Yehsha"
+        },
+        {
+            "name": "Noranim",
+            "location": "Yehsha"
+        },
+        {
+            "name": "Ziyad",
+            "location": "Yehsha",
+            "questlink": "http://wiki.mediviastats.info/Loyality_and_Devotion_Quest"
+        },
+        {
+            "name": "Drolgruth",
+            "location": "Sheol"
+        }
+    ],
+    "runes": [
+        {
+            "name": "UH",
+            "price": 2500
+        },
+        {
+            "name": "SD",
+            "price": 6000
+        },
+        {
+            "name": "GFB",
+            "price": 3500
+        },
+        {
+            "name": "HMM",
+            "price": 1500
+        },
+        {
+            "name": "XPL",
+            "price": 4500
+        },
+        {
+            "name": "FHMM",
+            "price": 3000
+        }
+    ],
+    "players_otheritems": [
+        {
+            "name": "RoH",
+            "price": 2000,
+            "weight": 0.8
+        },
+        {
+            "name": "BP of MF's",
+            "price": 2000,
+            "weight": 54
+        },
+        {
+            "name": "Big Mana Potion",
+            "price": 850,
+            "weight": 2.4
+        },
+        {
+            "name": "Ring of Purity",
+            "price": 35000,
+            "weight": 0.8
+        },
+        {
+            "name": "Ring of Purity (Minute)",
+            "price": 233.33,
+            "weight": 0.00533
+        },
+        {
+            "name": "Arrow",
+            "price": 2,
+            "weight": 0.7
+        },
+        {
+            "name": "H-Arrow",
+            "price": 4,
+            "weight": 0.7
+        },
+        {
+            "name": "Bolt",
+            "price": 3,
+            "weight": 0.8
+        },
+        {
+            "name": "H-Bolt",
+            "price": 5,
+            "weight": 0.8
+        },
+        {
+            "name": "Explosive Runes",
+            "price": 45,
+            "weight": 0.8
+        }
+    ],
+    "items": [
+        {
+            "name": "Albino Scale Mail",
+            "price": 0,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Amulet of Loss",
+            "price": 45000,
+            "weight": 4.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Ancient Amulet",
+            "price": 500,
+            "weight": 8.5,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Ancient Armor",
+            "price": 75000,
+            "weight": 185,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Ancient Boots",
+            "price": 5000,
+            "weight": 11,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Ancient Helmet",
+            "price": 42000,
+            "weight": 79,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Ancient Legs",
+            "price": 45000,
+            "weight": 98,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Ancient Shield",
+            "price": 900,
+            "weight": 61,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Ancient Sword",
+            "price": 40000,
+            "weight": 95,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Angelic Boots",
+            "price": 95000,
+            "weight": 130,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Angelic Helmet",
+            "price": 152000,
+            "weight": 260,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Angelic Plate Armor",
+            "price": 222000,
+            "weight": 145,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Angelic Platemail",
+            "price": 222000,
+            "weight": 290,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Angry Soul",
+            "price": 20000,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Ankh",
+            "price": 100,
+            "weight": 4.2,
+            "stackable": false,
+            "sellto": [
+                "Yaman"
+            ]
+        },
+        {
+            "name": "Aquamarine",
+            "price": 350,
+            "weight": 0.7,
+            "stackable": true,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Arcane Cowl",
+            "price": 45000,
+            "weight": 9,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Arcane Kilt",
+            "price": 50000,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Arcane Robe",
+            "price": 64500,
+            "weight": 19,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Arcane Shoes",
+            "price": 35000,
+            "weight": 14.6,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Arming Sword",
+            "price": 20000,
+            "weight": 60,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Ashlord Backpack",
+            "price": 0,
+            "weight": 18,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Ashlord Shield",
+            "price": 40000,
+            "weight": 28,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Assassin Blade",
+            "price": 6300,
+            "weight": 42,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Assassin Dagger",
+            "price": 1000,
+            "weight": 10,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Axe Ring",
+            "price": 400,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Barbarian Axe",
+            "price": 185,
+            "weight": 51,
+            "stackable": false,
+            "sellto": [
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Bascinet",
+            "price": 24000,
+            "weight": 75,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Battle Axe",
+            "price": 80,
+            "weight": 50,
+            "stackable": false,
+            "sellto": [
+                "Bronislav",
+                "Dietrich",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Battle Hammer",
+            "price": 120,
+            "weight": 68,
+            "stackable": false,
+            "sellto": [
+                "Andre",
+                "Bronislav",
+                "Dietrich",
+                "Glorin",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Battle Shield",
+            "price": 95,
+            "weight": 62,
+            "stackable": false,
+            "sellto": [
+                "Andre",
+                "Bronislav",
+                "Dosli",
+                "Risdarick",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Black Crystal",
+            "price": 0,
+            "weight": 7.5,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Black Pearl",
+            "price": 280,
+            "weight": 0.2,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Black Shield",
+            "price": 800,
+            "weight": 41.5,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Blazing Crossbow",
+            "price": 70000,
+            "weight": 58,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Blazing Greatsword",
+            "price": 300000,
+            "weight": 180,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Blood Herb",
+            "price": 10000,
+            "weight": 1.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Blood Mace",
+            "price": 0,
+            "weight": 92,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Bloodcurser",
+            "price": 280000,
+            "weight": 95,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Blue Gem",
+            "price": 25000,
+            "weight": 0.3,
+            "stackable": false,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Blue Hood",
+            "price": 0,
+            "weight": 3,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Blue Robe",
+            "price": 10000,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Blue Spellwand",
+            "price": 5000,
+            "weight": 19,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Bolt",
+            "price": 3,
+            "weight": 0.8,
+            "stackable": true,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Bone Shield",
+            "price": 100,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Boots of Haste",
+            "price": 30000,
+            "weight": 8.5,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Brass Armor",
+            "price": 150,
+            "weight": 80,
+            "stackable": false,
+            "sellto": [
+                "Andre",
+                "Bronislav",
+                "Dietrich",
+                "Risdarick",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Brass Helmet",
+            "price": 30,
+            "weight": 27,
+            "stackable": false,
+            "sellto": [
+                "Dosli",
+                "Hasain",
+                "Noranim",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Brass Legs",
+            "price": 49,
+            "weight": 49,
+            "stackable": false,
+            "sellto": [
+                "Dosli",
+                "Hasain",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Brass Shield",
+            "price": 16,
+            "weight": 60,
+            "stackable": false,
+            "sellto": [
+                "Dosli",
+                "Hasain",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Bright Sword",
+            "price": 8000,
+            "weight": 29,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Broad Sword",
+            "price": 500,
+            "weight": 52.5,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Broken Whip",
+            "price": 23500,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Burst Arrow",
+            "price": 50,
+            "weight": 0.8,
+            "stackable": true,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Chain Armor",
+            "price": 70,
+            "weight": 100,
+            "stackable": false,
+            "sellto": [
+                "Bronislav",
+                "Dietrich",
+                "Risdarick",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Chain Helmet",
+            "price": 17,
+            "weight": 42,
+            "stackable": false,
+            "sellto": [
+                "Bronislav",
+                "Dietrich",
+                "Noranim",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Chain Legs",
+            "price": 25,
+            "weight": 35,
+            "stackable": false,
+            "sellto": [
+                "Bronislav",
+                "Dietrich",
+                "Noranim",
+                "Risdarick",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Chaos Shield",
+            "price": 2000000,
+            "weight": 189,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Chimera Mane",
+            "price": 80000,
+            "weight": 7.4,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Clerical Mace",
+            "price": 170,
+            "weight": 58,
+            "stackable": false,
+            "sellto": [
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Club Ring",
+            "price": 100,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Crossbow",
+            "price": 160,
+            "weight": 40,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Crown Armor",
+            "price": 12000,
+            "weight": 99,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Crown Boots",
+            "price": 12000,
+            "weight": 20,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Crown Helmet",
+            "price": 2500,
+            "weight": 29.5,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Crown Legs",
+            "price": 12000,
+            "weight": 65,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Crown Shield",
+            "price": 8000,
+            "weight": 62,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Crusader Helmet",
+            "price": 6000,
+            "weight": 52,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Crystal Ball",
+            "price": 190,
+            "weight": 34,
+            "stackable": false,
+            "sellto": [
+                "Jodi"
+            ]
+        },
+        {
+            "name": "Crystallized Bow",
+            "price": 40000,
+            "weight": 46,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Crystallized Crossbow",
+            "price": 55000,
+            "weight": 53,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Crystallized Shield",
+            "price": 16000,
+            "weight": 85,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Curved Axe",
+            "price": 1200,
+            "weight": 68,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Dark Armor",
+            "price": 400,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Dark Helmet",
+            "price": 250,
+            "weight": 46,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Dawnlight",
+            "price": 0,
+            "weight": 0.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Deathraze",
+            "price": 235000,
+            "weight": 46.2,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Deepshadow Amulet",
+            "price": 340000,
+            "weight": 7,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Deepshadow Boots",
+            "price": 200000,
+            "weight": 11,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Deepshadow Legs",
+            "price": 285000,
+            "weight": 24,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Deepshadow Mask",
+            "price": 245000,
+            "weight": 13.5,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Deepshadow Robe",
+            "price": 325000,
+            "weight": 23,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Demon Backpack",
+            "price": 0,
+            "weight": 18,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Demon Shield",
+            "price": 30000,
+            "weight": 26,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Demonbone Armor",
+            "price": 40000,
+            "weight": 35,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Demonbone Boots",
+            "price": 14000,
+            "weight": 15,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Demonbone Helmet",
+            "price": 9000,
+            "weight": 25,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Demonic Axe",
+            "price": 215000,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Devil Helmet",
+            "price": 1000,
+            "weight": 50,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Double Axe",
+            "price": 260,
+            "weight": 70,
+            "stackable": false,
+            "sellto": [
+                "Aadim",
+                "Cord",
+                "Glorin",
+                "Horif"
+            ]
+        },
+        {
+            "name": "Double Axe Head",
+            "price": 3000,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Dragon Hammer",
+            "price": 2000,
+            "weight": 97,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Dragon Lance",
+            "price": 9000,
+            "weight": 67,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Dragon Scale Mail",
+            "price": 30000,
+            "weight": 114,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Dragon Shield",
+            "price": 4000,
+            "weight": 60,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Dragon Slayer",
+            "price": 40000,
+            "weight": 90,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Drake Scale Helmet",
+            "price": 850,
+            "weight": 59,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Dreadweave Robe",
+            "price": 600000,
+            "weight": 17,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Dwarven Axe",
+            "price": 1500,
+            "weight": 82,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Dwarven Helmet",
+            "price": 0,
+            "weight": 42,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Dwarven Shield",
+            "price": 100,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Dosli"
+            ]
+        },
+        {
+            "name": "Electric Armor",
+            "price": 10000,
+            "weight": 25,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Electric Helmet",
+            "price": 5000,
+            "weight": 15,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Electric Legs",
+            "price": 7000,
+            "weight": 17,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Elite Knight Armor",
+            "price": 80000,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Elite Knight Boots",
+            "price": 40000,
+            "weight": 25,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Elite Knight Helmet",
+            "price": 52000,
+            "weight": 47,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Elite Knight Legs",
+            "price": 60000,
+            "weight": 58,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Elven Amulet",
+            "price": 100,
+            "weight": 2.7,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Ember Coin",
+            "price": 500,
+            "weight": 1,
+            "stackable": true,
+            "sellto": [
+                "Evona"
+            ]
+        },
+        {
+            "name": "Emberwake Ring",
+            "price": 400000,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Emberwake Tunic",
+            "price": 142000,
+            "weight": 33,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Envenomed Crossbow",
+            "price": 65000,
+            "weight": 58,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Executioner's Sword",
+            "price": 0,
+            "weight": 180,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Explosion Rune",
+            "price": 225,
+            "weight": 0.5,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Fiery Armor",
+            "price": 7500,
+            "weight": 110,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Fiery Bow",
+            "price": 150000,
+            "weight": 38,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Fiery Hammer",
+            "price": 20000,
+            "weight": 92,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Fiery Helmet",
+            "price": 7500,
+            "weight": 52,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Fire Axe",
+            "price": 8000,
+            "weight": 40,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Fire Hammer",
+            "price": 20000,
+            "weight": 92,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Fire Sword",
+            "price": 4000,
+            "weight": 23,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Fire Whip",
+            "price": 220000,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Fireweaver",
+            "price": 4000,
+            "weight": 26,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Flaming Aegis",
+            "price": 375000,
+            "weight": 46,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Flaming Bow",
+            "price": 18000,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Forgotten Soul",
+            "price": 30000,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Frost Dagger",
+            "price": 800,
+            "weight": 9.8,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Frostwarden",
+            "price": 30000,
+            "weight": 29,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Frozen Shield",
+            "price": 29000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Gatecrasher",
+            "price": 4000,
+            "weight": 19,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Giant Sword",
+            "price": 17000,
+            "weight": 180,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Golden Amulet",
+            "price": 1600,
+            "weight": 8.3,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Golden Armor",
+            "price": 20000,
+            "weight": 80,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Golden Legs",
+            "price": 50000,
+            "weight": 56,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Golden Staff",
+            "price": 20000,
+            "weight": 125,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Gold Ring",
+            "price": 8000,
+            "weight": 1,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Great Fireball Rune",
+            "price": 175,
+            "weight": 1.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Green Gem",
+            "price": 25000,
+            "weight": 0.3,
+            "stackable": false,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Green Spellwand",
+            "price": 5000,
+            "weight": 23,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Grim Boots",
+            "price": 10000,
+            "weight": 12.6,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Grim Legs",
+            "price": 30000,
+            "weight": 32,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Guardian Halberd",
+            "price": 8000,
+            "weight": 110,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Guardian Shield",
+            "price": 2000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Halberd",
+            "price": 400,
+            "weight": 90,
+            "stackable": false,
+            "sellto": [
+                "Bronislav",
+                "Dietrich",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Heart Backpack",
+            "price": 0,
+            "weight": 18,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Heart of Lightning",
+            "price": 0,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Heavy Frozen Missile Rune",
+            "price": 150,
+            "weight": 1.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Heavy Halberd",
+            "price": 35000,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Ziyad",
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Heavy Magic Missile Rune",
+            "price": 75,
+            "weight": 1.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Heavy Truncheon",
+            "price": 300000,
+            "weight": 88,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Hellforged Armor",
+            "price": 10000000,
+            "weight": 270,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Hellforged Axe",
+            "price": 50000,
+            "weight": 80,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Hellforged Helmet",
+            "price": 12000000,
+            "weight": 380,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Hellforged Legs",
+            "price": 300000,
+            "weight": 180,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Hellforged Shield",
+            "price": 36000,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Ziyad",
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Holy Scepter",
+            "price": 50000,
+            "weight": 26,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Hunting Arrow",
+            "price": 4,
+            "weight": 0.7,
+            "stackable": true,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Hunting Bolt",
+            "price": 5,
+            "weight": 0.8,
+            "stackable": true,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Hunting Bow",
+            "price": 1000,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Huntsman Armor",
+            "price": 0,
+            "weight": 32,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Ice Rapier",
+            "price": 1000,
+            "weight": 15,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Icebound Helmet",
+            "price": 60000,
+            "weight": 81,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Ignited Bow",
+            "price": 5000,
+            "weight": 34,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Illumination Ring",
+            "price": 100,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Iron Helmet",
+            "price": 150,
+            "weight": 30,
+            "stackable": false,
+            "sellto": [
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Imperial Soldier Armor",
+            "price": 5500,
+            "weight": 110,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Imperial Soldier Legs",
+            "price": 20000,
+            "weight": 50,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Imperial Soldier Shield",
+            "price": 3000,
+            "weight": 80,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Knight Armor",
+            "price": 5000,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Knight Axe",
+            "price": 2000,
+            "weight": 59,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Knight Helmet",
+            "price": 2500,
+            "weight": 36,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Knight Legs",
+            "price": 5000,
+            "weight": 70,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Lich Grimoire",
+            "price": 108000,
+            "weight": 22,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Life Ring",
+            "price": 700,
+            "weight": 0.8,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Light Armor",
+            "price": 13000,
+            "weight": 24,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Light Sword",
+            "price": 4500,
+            "weight": 15,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Lightbringer Helmet",
+            "price": 40000,
+            "weight": 80,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Living Thunder",
+            "price": 1000,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Longsword",
+            "price": 51,
+            "weight": 42,
+            "stackable": false,
+            "sellto": [
+                "Dalos"
+            ]
+        },
+        {
+            "name": "Mace",
+            "price": 30,
+            "weight": 38,
+            "stackable": false,
+            "sellto": [
+                "Bronislav",
+                "Dietrich",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Magic Plate Armor",
+            "price": 200000,
+            "weight": 85,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Magic Plate Boots",
+            "price": 80000,
+            "weight": 9,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Magic Plate Legs",
+            "price": 120000,
+            "weight": 50,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Mana Fluid",
+            "price": 100,
+            "weight": 1.8,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Mastermind Shield",
+            "price": 50000,
+            "weight": 57,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Medusa Shield",
+            "price": 8000,
+            "weight": 58,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Mercenary Sword",
+            "price": 45000,
+            "weight": 45,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Might Ring",
+            "price": 4000,
+            "weight": 1,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Mind Stone",
+            "price": 170,
+            "weight": 2,
+            "stackable": false,
+            "sellto": [
+                "Jodi"
+            ]
+        },
+        {
+            "name": "Minotaur Tome",
+            "price": 0,
+            "weight": 12,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Morning Star",
+            "price": 54,
+            "weight": 2,
+            "stackable": false,
+            "sellto": [
+                "Aadim",
+                "Cord",
+                "Glorin",
+                "Horif"
+            ]
+        },
+        {
+            "name": "Mystic Turban",
+            "price": 1000,
+            "weight": 8.5,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Nether Shield",
+            "price": 6600,
+            "weight": 40,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Noble Armor",
+            "price": 900,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Observer Helmet",
+            "price": 67000,
+            "weight": 32,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Observer Shield",
+            "price": 82000,
+            "weight": 46,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Obsidian Lance",
+            "price": 500,
+            "weight": 80,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Orb",
+            "price": 750,
+            "weight": 8,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Permafrost Crystal",
+            "price": 3000,
+            "weight": 13,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Permafrost Longsword",
+            "price": 900,
+            "weight": 85,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Permafrost Morningstar",
+            "price": 1600,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Permafrost Robe",
+            "price": 26000,
+            "weight": 26.5,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Permafrost Stone",
+            "price": 7000,
+            "weight": 5,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Pharaoh Boots",
+            "price": 0,
+            "weight": 21,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Phoenix Backpack",
+            "price": 0,
+            "weight": 6.5,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Plaguespreader Robe",
+            "price": 26000,
+            "weight": 21.5,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Plaguespreader Rod",
+            "price": 2000,
+            "weight": 43,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Plate Armor",
+            "price": 400,
+            "weight": 120,
+            "stackable": false,
+            "sellto": [
+                "Andre",
+                "Bronislav",
+                "Dietrich",
+                "Risdarick",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Plate Legs",
+            "price": 115,
+            "weight": 50,
+            "stackable": false,
+            "sellto": [
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Plate Shield",
+            "price": 45,
+            "weight": 65,
+            "stackable": false,
+            "sellto": [
+                "Dosli",
+                "Hasain"
+            ]
+        },
+        {
+            "name": "Platinum Amulet",
+            "price": 1500,
+            "weight": 6,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Poisoned Bow",
+            "price": 16000,
+            "weight": 30,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Polished Amethyst",
+            "price": 2500,
+            "weight": 2.5,
+            "stackable": true,
+            "sellto": [
+                "Dianne",
+                "Edea",
+                "Evona",
+                "Leunaurd",
+                "Lihsha",
+                "Lizbeth"
+            ]
+        },
+        {
+            "name": "Polished Emerald",
+            "price": 3000,
+            "weight": 2.5,
+            "stackable": true,
+            "sellto": [
+                "Dianne",
+                "Edea",
+                "Evona",
+                "Leunaurd",
+                "Lihsha",
+                "Lizbeth"
+            ]
+        },
+        {
+            "name": "Polished Ruby",
+            "price": 3000,
+            "weight": 2.5,
+            "stackable": true,
+            "sellto": [
+                "Dianne",
+                "Edea",
+                "Evona",
+                "Leunaurd",
+                "Lihsha",
+                "Lizbeth"
+            ]
+        },
+        {
+            "name": "Polished Sapphire",
+            "price": 3000,
+            "weight": 2.5,
+            "stackable": true,
+            "sellto": [
+                "Dianne",
+                "Edea",
+                "Evona",
+                "Leunaurd",
+                "Lihsha",
+                "Lizbeth"
+            ]
+        },
+        {
+            "name": "Polished Topaz",
+            "price": 5000,
+            "weight": 2.5,
+            "stackable": true,
+            "sellto": [
+                "Dianne",
+                "Edea",
+                "Evona",
+                "Leunaurd",
+                "Lihsha",
+                "Lizbeth"
+            ]
+        },
+        {
+            "name": "Protection Amulet",
+            "price": 100,
+            "weight": 5.5,
+            "stackable": false,
+            "sellto": [
+                "Yaman"
+            ]
+        },
+        {
+            "name": "Purple Frozen Starlight",
+            "price": 0,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Quiver",
+            "price": 20000,
+            "weight": 5,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Red Dragon Scale",
+            "price": 0,
+            "weight": 2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Red Frozen Starlight",
+            "price": 0,
+            "weight": 0.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Red Gem",
+            "price": 1000,
+            "weight": 0.3,
+            "stackable": false,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Red Robe",
+            "price": 30000,
+            "weight": 24,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Red Skirt",
+            "price": 150,
+            "weight": 4,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Red Spellwand",
+            "price": 5000,
+            "weight": 23,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Red Tunic",
+            "price": 5000,
+            "weight": 12,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Ring of Healing",
+            "price": 2000,
+            "weight": 0.8,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Ring of the Sky",
+            "price": 20000,
+            "weight": 0.4,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Ritual Dagger",
+            "price": 6000,
+            "weight": 13.2,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Royal Helmet",
+            "price": 30000,
+            "weight": 48,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Royal Plate Armor",
+            "price": 35000,
+            "weight": 90,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Ruby Necklace",
+            "price": 900,
+            "weight": 5.7,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Sacred Arbalest",
+            "price": 0,
+            "weight": 72,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Scale Armor",
+            "price": 75,
+            "weight": 105,
+            "stackable": false,
+            "sellto": [
+                "P.K."
+            ]
+        },
+        {
+            "name": "Scarab Amulet",
+            "price": 500,
+            "weight": 7.7,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Scarab Coin",
+            "price": 150,
+            "weight": 0.2,
+            "stackable": true,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Scarab Shield",
+            "price": 1500,
+            "weight": 47,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Scimitar",
+            "price": 150,
+            "weight": 29,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Scorpid Hood",
+            "price": 2300,
+            "weight": 35,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Serpent Scepter",
+            "price": 1500,
+            "weight": 29,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Serpent Sword",
+            "price": 900,
+            "weight": 41,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Shadow Phoenix Backpack",
+            "price": 0,
+            "weight": 6.5,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Shadowfall",
+            "price": 15000,
+            "weight": 33,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Shadowfall Crossbow",
+            "price": 200000,
+            "weight": 72,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Shakirian Blade",
+            "price": 35000,
+            "weight": 35,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Shakirian Bow",
+            "price": 32000,
+            "weight": 30,
+            "stackable": false,
+            "sellto": [
+                "Aremis"
+            ]
+        },
+        {
+            "name": "Shakirian Shield",
+            "price": 3000,
+            "weight": 48,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Shakirian Spellbook",
+            "price": 1350,
+            "weight": 10.5,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Shakirian Wand",
+            "price": 6000,
+            "weight": 15,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Shakirian Waraxe",
+            "price": 1000,
+            "weight": 105,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Shield of the Heroes",
+            "price": 38000,
+            "weight": 45,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Silver Amulet",
+            "price": 50,
+            "weight": 5,
+            "stackable": false,
+            "sellto": [
+                "Yaman"
+            ]
+        },
+        {
+            "name": "Silver Dagger",
+            "price": 500,
+            "weight": 10.2,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Silver Mace",
+            "price": 16500,
+            "weight": 67,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Skull Staff",
+            "price": 6000,
+            "weight": 17,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Skullbreaker",
+            "price": 78000,
+            "weight": 37,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Small Amethyst",
+            "price": 200,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Small Diamond",
+            "price": 300,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Small Emerald",
+            "price": 250,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Small Onyx",
+            "price": 460,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Astrid",
+                "Edea",
+                "Leunaurd",
+                "Lihsha"
+            ]
+        },
+        {
+            "name": "Small Ruby",
+            "price": 250,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Small Sapphire",
+            "price": 250,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Small Topaz",
+            "price": 440,
+            "weight": 0.1,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Soldier Helmet",
+            "price": 16,
+            "weight": 32,
+            "stackable": false,
+            "sellto": [
+                "P.K."
+            ]
+        },
+        {
+            "name": "Soul Dagger",
+            "price": 200,
+            "weight": 18.5,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Soul Reaper",
+            "price": 7500,
+            "weight": 60,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Soulstealer Armor",
+            "price": 218000,
+            "weight": 85,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Spellbook",
+            "price": 75,
+            "weight": 1.2,
+            "stackable": true,
+            "sellto": [
+                "Yaman"
+            ]
+        },
+        {
+            "name": "Spider Silk Armor",
+            "price": 2000,
+            "weight": 48,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Spike Sword",
+            "price": 1000,
+            "weight": 50,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Spiked Club",
+            "price": 3200,
+            "weight": 63,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Sphinx Claw",
+            "price": 3000,
+            "weight": 9,
+            "stackable": true,
+            "sellto": [
+                "Arses"
+            ]
+        },
+        {
+            "name": "Staff of Might",
+            "price": 5000,
+            "weight": 29,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Stealth Ring",
+            "price": 200,
+            "weight": 1,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Steel Boots",
+            "price": 30000,
+            "weight": 29,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Steel Helmet",
+            "price": 293,
+            "weight": 46,
+            "stackable": false,
+            "sellto": [
+                "Dosli",
+                "Hasain",
+                "Noranim"
+            ]
+        },
+        {
+            "name": "Steel Shield",
+            "price": 80,
+            "weight": 69,
+            "stackable": false,
+            "sellto": [
+                "Andre",
+                "Bronislav",
+                "Dietrich",
+                "Risdarick",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Stone Skin Amulet",
+            "price": 4500,
+            "weight": 7,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Stormcaller",
+            "price": 8000,
+            "weight": 25,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Strange Helmet",
+            "price": 500,
+            "weight": 46,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Strange Symbol",
+            "price": 200,
+            "weight": 2,
+            "stackable": false,
+            "sellto": [
+                "Haffnal"
+            ]
+        },
+        {
+            "name": "Sudden Death Rune",
+            "price": 300,
+            "weight": 1.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Swinging Demolisher",
+            "price": 16000,
+            "weight": 90,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Sword",
+            "price": 25,
+            "weight": 35,
+            "stackable": false,
+            "sellto": [
+                "Aadim",
+                "Bronislav",
+                "Dalos",
+                "Dietrich",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Sword Ring",
+            "price": 100,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Haroun"
+            ]
+        },
+        {
+            "name": "Syringe of Disease",
+            "price": 0,
+            "weight": 3,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Talon",
+            "price": 320,
+            "weight": 0.2,
+            "stackable": true,
+            "sellto": [
+                "Edea",
+                "Leunaurd",
+                "Lihsha"
+            ]
+        },
+        {
+            "name": "Tainted Soul",
+            "price": 25000,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Stinger",
+            "price": 7000,
+            "weight": 83,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "The Sky Piercer",
+            "price": 16500,
+            "weight": 72,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Time Ring",
+            "price": 1500,
+            "weight": 0.9,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Torn Quicksand Boots",
+            "price": 10000,
+            "weight": 8.5,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Tower Shield",
+            "price": 8000,
+            "weight": 82,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Two Handed Sword",
+            "price": 450,
+            "weight": 70,
+            "stackable": false,
+            "sellto": [
+                "Andre",
+                "Bronislav",
+                "Dalos",
+                "Dietrich",
+                "Risdarick"
+            ]
+        },
+        {
+            "name": "Ultimate Healing Rune",
+            "price": 125,
+            "weight": 1.2,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Umbral Boots",
+            "price": 300000,
+            "weight": 37,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Umbral Helmet",
+            "price": 300000,
+            "weight": 95,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Umbral Plate Armor",
+            "price": 0,
+            "weight": 105,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Umbral Platemail",
+            "price": 0,
+            "weight": 165,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Umbral Robe",
+            "price": 0,
+            "weight": 17,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Unholy Halberd",
+            "price": 5500,
+            "weight": 188,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Unholy Plate Armor",
+            "price": 15000,
+            "weight": 245,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Vampire Shield",
+            "price": 15000,
+            "weight": 38,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Vanadinite Armor",
+            "price": 0,
+            "weight": 162,
+            "stackable": false,
+            "sellto": [
+                "Players"
+            ]
+        },
+        {
+            "name": "Vanadinite Helmet",
+            "price": 36000,
+            "weight": 73,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Vanadinite Legs",
+            "price": 55000,
+            "weight": 89,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Vanquisher",
+            "price": 100000,
+            "weight": 108,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Venomous Mace",
+            "price": 75000,
+            "weight": 68,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "Violet Gem",
+            "price": 50000,
+            "weight": 0.3,
+            "stackable": false,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Viking Helmet",
+            "price": 66,
+            "weight": 39,
+            "stackable": false,
+            "sellto": [
+                "Dietrich",
+                "Dosli",
+                "Hasain",
+                "Valandril"
+            ]
+        },
+        {
+            "name": "Virulent Armor",
+            "price": 320000,
+            "weight": 85,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Virulent Clawboots",
+            "price": 100000,
+            "weight": 7.5,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Virulent Helmet",
+            "price": 130000,
+            "weight": 38.9,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Virulent Legs",
+            "price": 225000,
+            "weight": 56,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Venerator Mask",
+            "price": 500,
+            "weight": 0,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Void Mace",
+            "price": 150000,
+            "weight": 100,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Wand of Light",
+            "price": 4000,
+            "weight": 10,
+            "stackable": false,
+            "sellto": [
+                "Ziyad"
+            ]
+        },
+        {
+            "name": "War Hammer",
+            "price": 1200,
+            "weight": 85,
+            "stackable": false,
+            "sellto": [
+                "Nah'Bob"
+            ]
+        },
+        {
+            "name": "Warlord Helmet",
+            "price": 42000,
+            "weight": 48,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Warrior Helmet",
+            "price": 5000,
+            "weight": 68,
+            "stackable": false,
+            "sellto": [
+                "Alesar"
+            ]
+        },
+        {
+            "name": "Watcher Armor",
+            "price": 125000,
+            "weight": 89,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Watcher Boots",
+            "price": 85000,
+            "weight": 13.5,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Watcher Legs",
+            "price": 110000,
+            "weight": 68,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Webcrawler Boots",
+            "price": 53000,
+            "weight": 12,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Webcrawler Shield",
+            "price": 12000,
+            "weight": 37,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Wendigo Staff",
+            "price": 900,
+            "weight": 65,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "White Pearl",
+            "price": 160,
+            "weight": 0.2,
+            "stackable": true,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Wooden Maul",
+            "price": 2000,
+            "weight": 200,
+            "stackable": false,
+            "sellto": [
+                "Wulkan"
+            ]
+        },
+        {
+            "name": "Yellow Gem",
+            "price": 2000,
+            "weight": 0.3,
+            "stackable": false,
+            "sellto": [
+                "Annushka",
+                "Asha",
+                "Astrid",
+                "Dianne",
+                "Edea",
+                "Leunaurd",
+                "Lihsha",
+                "Lona",
+                "Rorin"
+            ]
+        },
+        {
+            "name": "Yellow Robe",
+            "price": 18000,
+            "weight": 5,
+            "stackable": false,
+            "sellto": [
+                "Draculd"
+            ]
+        },
+        {
+            "name": "Red Heels",
+            "price": 41500,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "War Axe",
+            "price": 80000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "High Heels of Seduction",
+            "price": 84000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Arcane Tunic",
+            "price": 125000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Plague Mask",
+            "price": 145000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Jade Tear",
+            "price": 165000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Ruby Tear",
+            "price": 165000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Jadeite Boots",
+            "price": 178000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Deathraze",
+            "price": 235000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Artifact of Penance",
+            "price": 250000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Bloodcurser",
+            "price": 280000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Mirror Shield",
+            "price": 310000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Umbral Legs",
+            "price": 335000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Chaos Axe",
+            "price": 600000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Chaos Mace",
+            "price": 600000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Chaos Sword",
+            "price": 600000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Dawnbringer",
+            "price": 600000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Lightbane",
+            "price": 600000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Twilight",
+            "price": 600000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "The Ward of Sheol",
+            "price": 625000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Solar Amulet",
+            "price": 666000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Hallowed Flame",
+            "price": 145000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Abyssal Scriptures",
+            "price": 8000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Abysmor Claw",
+            "price": 8000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Eyes of Abysmor",
+            "price": 8000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Hallowed Piece of Cloth",
+            "price": 6000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Prismatic Shard",
+            "price": 5000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Abyssal Fang",
+            "price": 5000,
+            "weight": 55,
+            "stackable": false,
+            "sellto": [
+                "Drolgruth"
+            ]
+        },
+        {
+            "name": "Leather Legs",
+            "price": 10,
+            "weight": 18,
+            "stackable": false,
+            "sellto": [
+            ]
+        }
+    ],
+    "creatures": [
+        {
+            "name": "Abomination",
+            "exp": 15000,
+            "items": [
+                "Dark Armor",
+                "Dragon Lance",
+                "Giant Sword",
+                "Golden Armor",
+                "Heavy Halberd",
+                "Might Ring",
+                "Stone Skin Amulet",
+                "Tower Shield",
+                "War Hammer",
+                "Warrior Helmet"
+            ]
+        },
+        {
+            "name": "Abysmor",
+            "exp": 90000,
+            "items": []
+        },
+        {
+            "name": "Air Elemental",
+            "exp": 16000,
+            "items": []
+        },
+        {
+            "name": "Albino Dragon",
+            "exp": 8600,
+            "items": [
+                "Albino Scale Mail",
+                "Blazing Crossbow",
+                "Burst Arrow",
+                "Crown Boots",
+                "Dragon Hammer",
+                "Dragon Lance",
+                "Dragon Scale Mail",
+                "Dragon Shield",
+                "Fire Axe",
+                "Fire Sword",
+                "Plate Armor",
+                "Royal Helmet",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Alligator",
+            "exp": 440,
+            "items": []
+        },
+        {
+            "name": "Alpha Wolf",
+            "exp": 16000,
+            "items": []
+        },
+        {
+            "name": "Alphabeast",
+            "exp": 13600,
+            "items": [
+                "Ancient Helmet",
+                "Ancient Legs",
+                "Bascinet",
+                "Black Shield",
+                "Dark Armor",
+                "Heavy Halberd",
+                "Steel Boots",
+                "Two Handed Sword",
+                "Tower Shield"
+            ]
+        },
+        {
+            "name": "Ancient Dragon",
+            "exp": 49400,
+            "items": []
+        },
+        {
+            "name": "Ancient Golem",
+            "exp": 6200,
+            "items": [
+                "Ancient Armor",
+                "Double Axe",
+                "Guardian Halberd",
+                "Might Ring",
+                "Poisoned Bow",
+                "Steel Shield",
+                "Stone Skin Amulet",
+                "Warrior Helmet"
+            ]
+        },
+        {
+            "name": "Ancient Scarab",
+            "exp": 1440,
+            "items": [
+                "Ancient Amulet",
+                "Plate Armor",
+                "Scarab Amulet",
+                "Scarab Coin",
+                "Scarab Shield",
+                "Shakirian Waraxe",
+                "Small Amethyst",
+                "Small Emerald"
+            ]
+        },
+        {
+            "name": "Ancient Watcher",
+            "exp": 15200,
+            "items": [
+                "Ancient Amulet",
+                "Ancient Sword",
+                "Blue Robe",
+                "Bright Sword",
+                "Mastermind Shield",
+                "Mind Stone",
+                "Small Amethyst",
+                "Violet Gem",
+                "Wand of Light",
+                "Watcher Armor",
+                "Watcher Boots",
+                "Watcher Legs"
+            ]
+        },
+        {
+            "name": "Animated Blood",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Ant",
+            "exp": 60,
+            "items": []
+        },
+        {
+            "name": "Ant Soldier",
+            "exp": 1070,
+            "items": []
+        },
+        {
+            "name": "Ant Worker",
+            "exp": 250,
+            "items": []
+        },
+        {
+            "name": "Anubis",
+            "exp": 1060,	
+            "items": [
+                "Gold Ring",
+                "Golden Staff",
+                "Life Ring",
+                "Red Skirt",
+                "Yellow Robe"
+            ]
+        },
+        {
+            "name": "Arcanist",
+            "exp": 2390,
+            "items": []
+        },
+        {
+            "name": "Archer",
+            "exp": 1700,
+            "items": []
+        },
+        {
+            "name": "Armored Hellish Skeleton",
+            "exp": 500,
+            "items": []
+        },
+        {
+            "name": "Armored Horse",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Armored Skeleton",
+            "exp": 70,
+            "items": []
+        },
+        {
+            "name": "Ash Imp",
+            "exp": 500,
+            "items": []
+        },
+        {
+            "name": "Ashlord",
+            "exp": 19400,
+            "items": [
+                "Ashlord Backpack",
+                "Ashlord Shield",
+                "Blazing Crossbow",
+                "Devil Helmet",
+                "Double Axe",
+                "Fire Axe",
+                "Giant Sword",
+                "Gold Ring",
+                "Golden Legs",
+                "Heavy Truncheon",
+                "Magic Plate Legs",
+                "Mastermind Shield",
+                "Might Ring",
+                "Orb",
+                "Platinum Amulet",
+                "Ring of Healing",
+                "Small Emerald",
+                "Stealth Ring",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Azure Mercenary",
+            "exp": 22000,
+            "items": [
+                "Bascinet",
+                "Blue Robe",
+                "Demonic Axe",
+                "Hellforged Legs",
+                "Knight Axe",
+                "Mercenary Sword",
+                "Royal Plate Armor",
+                "Shield of the Heroes"
+            ]
+        },
+        {
+            "name": "Bandit",
+            "exp": 130,
+            "items": [
+                "Brass Armor",
+                "Brass Shield",
+                "Mace"
+            ]
+        },
+        {
+            "name": "Banshee",
+            "exp": 1800,
+            "items": [
+                "Black Pearl",
+                "Blue Robe",
+                "Red Robe",
+                "Ring of Healing",
+                "Silver Amulet",
+                "Stone Skin Amulet",
+                "White Pearl"
+            ]
+        },
+        {
+            "name": "Bat",
+            "exp": 40,
+            "items": []
+        },
+        {
+            "name": "Bear",
+            "exp": 46,
+            "items": []
+        },
+        {
+            "name": "Bear Spirit",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Bedsore",
+            "exp": 8800,
+            "items": [
+                "Demon Shield",
+                "Devil Helmet",
+                "Guardian Halberd",
+                "Polished Amethyst",
+                "Red Spellwand",
+                "Small Amethyst",
+                "Unholy Plate Armor"
+            ]
+        },
+        {
+            "name": "Bee",
+            "exp": 26,
+            "items": []
+        },
+        {
+            "name": "Bee Drone",
+            "exp": 46,
+            "items": []
+        },
+        {
+            "name": "Bee Queen",
+            "exp": 600,
+            "items": []
+        },
+        {
+            "name": "Big Firefly",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Black Knight",
+            "exp": 3200,
+            "items": [
+                "Battle Hammer",
+                "Boots of Haste",
+                "Brass Legs",
+                "Dark Armor",
+                "Dark Helmet",
+                "Double Axe",
+                "Dragon Lance",
+                "Halberd",
+                "Knight Armor",
+                "Knight Axe",
+                "Knight Legs",
+                "Plate Armor",
+                "Steel Helmet",
+                "Two Handed Sword",
+                "Warrior Helmet"
+            ]
+        },
+        {
+            "name": "Black Sheep",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Black Widow",
+            "exp": 7600,
+            "items": [
+                "Deepshadow Mask",
+                "Small Emerald",
+                "Spider Silk Armor",
+                "Warrior Helmet",
+                "Webcrawler Boots",
+                "Webcrawler Shield"
+            ]
+        },
+        {
+            "name": "Blasphemer",
+            "exp": 16400,
+            "items": [
+                "Arcane Kilt",
+                "Arcane Shoes",
+                "Mind Stone",
+                "Polished Amethyst",
+                "Ring of the Sky",
+                "Ruby Necklace",
+                "Shadowfall",
+                "Skullbreaker",
+                "Small Diamond",
+                "Spellbook",
+                "Staff of Might",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Blazeclaw",
+            "exp": 16000,
+            "items": []
+        },
+        {
+            "name": "Blazing Spider",
+            "exp": 1780,
+            "items": []
+        },
+        {
+            "name": "Blighted Dwarf",
+            "exp": 10800,
+            "items": [
+                "Angry Soul",
+                "Knight Axe",
+                "Polished Amethyst",
+                "Small Amethyst",
+                "Steel Boots"
+            ]
+        },
+        {
+            "name": "Blighted Dwarf Champion",
+            "exp": 79000,
+            "items": []
+        },
+        {
+            "name": "Blood Maggot",
+            "exp": 26,
+            "items": []
+        },
+        {
+            "name": "Blood Sphinx",
+            "exp": 25500,
+            "items": [
+                "Ancient Helmet",
+                "Blood Mace",
+                "Gold Ring",
+                "Golden Armor",
+                "Golden Legs",
+                "Mastermind Shield",
+                "Mind Stone",
+                "Torn Quicksand Boots",
+                "Vanquisher",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Blood Witch",
+            "exp": 13000,
+            "items": [
+                "Boots of Haste",
+                "Black Shield",
+                "Dark Armor",
+                "Deepshadow Robe",
+                "Demonbone Armor",
+                "Demonbone Boots",
+                "Demonbone Helmet",
+                "Polished Ruby",
+                "Vampire Shield"
+            ]
+        },
+        {
+            "name": "Blue Djinn",
+            "exp": 600,
+            "items": []
+        },
+        {
+            "name": "Blue Fungi",
+            "exp": 6600,
+            "items": [
+                "Blue Robe",
+                "Platinum Amulet",
+                "Polished Sapphire",
+                "Steel Helmet"
+            ]
+        },
+        {
+            "name": "Blue Fungling",
+            "exp": 800,
+            "items": [
+                "Blue Robe",
+                "Platinum Amulet",
+                "Polished Sapphire",
+                "Steel Helmet"
+            ]
+        },
+        {
+            "name": "Blue Wyvern",
+            "exp": 44,
+            "items": [
+                "Broad Sword",
+                "Noble Armor",
+                "Dragon Slayer",
+                "Permafrost Longsword",
+                "Small Sapphire",
+                "Tower Shield",
+                "Crusader Helmet",
+                "Crystallized Crossbow",
+                "Crystallized Bow",
+                "Icebound Helmet"
+            ]
+        },
+        {
+            "name": "Boar",
+            "exp": 44,
+            "items": []
+        },
+        {
+            "name": "Boggle Grappler",
+            "exp": 3000,
+            "items": []
+        },
+        {
+            "name": "Boggle Mauler",
+            "exp": 3150,
+            "items": []
+        },
+        {
+            "name": "Boggle Trickster",
+            "exp": 2980,
+            "items": []
+        },
+        {
+            "name": "Bomba Plant",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Bonebeast",
+            "exp": 1160,
+            "items": []
+        },
+        {
+            "name": "Bookwarden",
+            "exp": 11720,
+            "items": [
+                "Arcane Cowl",
+                "Arcane Robe",
+                "Explosion Rune",
+                "Mana Fluid",
+                "Mind Stone",
+                "Ring of Healing",
+                "Ritual Dagger",
+                "Spellbook"
+            ]
+        },
+        {
+            "name": "Bronze Fungi",
+            "exp": 5400,
+            "items": []
+        },
+        {
+            "name": "Bug",
+            "exp": 36,
+            "items": []
+        },
+        {
+            "name": "Burning Champion",
+            "exp": 550,
+            "items": []
+        },
+        {
+            "name": "Butterfly",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Caiman",
+            "exp": 170,
+            "items": []
+        },
+        {
+            "name": "Camel",
+            "exp": 45,
+            "items": []
+        },
+        {
+            "name": "Cat",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Cave Rat",
+            "exp": 20,
+            "items": []
+        },
+        {
+            "name": "Cave Troll",
+            "exp": 1390,
+            "items": []
+        },
+        {
+            "name": "Centaur Guardian",
+            "exp": 11060,
+            "items": []
+        },
+        {
+            "name": "Centaur Mystic",
+            "exp": 11250,
+            "items": []
+        },
+        {
+            "name": "Centaur Warmaster",
+            "exp": 11950,
+            "items": []
+        },
+        {
+            "name": "Centaur Windrider",
+            "exp": 11000,
+            "items": []
+        },
+        {
+            "name": "Cerberus",
+            "exp": 14600,
+            "items": [
+                "Burst Arrow",
+                "Crown Helmet",
+                "Deepshadow Amulet",
+                "Emberwake Tunic",
+                "Fire Axe",
+                "Fire Hammer",
+                "Fire Sword",
+                "Fireweaver",
+                "Light Armor",
+                "Polished Ruby",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Channeler",
+            "exp": 1100,
+            "items": []
+        },
+        {
+            "name": "Chaos Fiend",
+            "exp": 1140,
+            "items": []
+        },
+        {
+            "name": "Chaos Hydra",
+            "exp": 170000,
+            "items": [
+                "Elite Knight Armor",
+                "Elite Knight Boots",
+                "Elite Knight Helmet",
+                "Elite Knight Legs",
+                "Forgotten Soul",
+                "Polished Amethyst",
+                "Small Amethyst",
+                "Small Onyx",
+                "Tower Shield",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Chaos Worshiper",
+            "exp": 8400,
+            "items": [
+                "Black Crystal",
+                "Blue Robe",
+                "Mind Stone",
+                "Orb",
+                "Ring of the Sky",
+                "Skull Staff",
+                "Small Onyx",
+                "Talon",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Chicken",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Chimera",
+            "exp": 16800,
+            "items": [
+                "Amulet of Loss",
+                "Ancient Helmet",
+                "Ancient Sword",
+                "Chimera Mane",
+                "Crown Legs",
+                "Envenomed Crossbow",
+                "Fireweaver",
+                "Golden Armor",
+                "Green Spellwand",
+                "Halberd",
+                "Heavy Halberd",
+                "Hellforged Shield",
+                "Orb",
+                "Small Diamond"
+            ]
+        },
+        {
+            "name": "Chimpanzee",
+            "exp": 1600,
+            "items": []
+        },
+        {
+            "name": "Cobra",
+            "exp": 100,
+            "items": []
+        },
+        {
+            "name": "Commodore",
+            "exp": 490,
+            "items": []
+        },
+        {
+            "name": "Corrupted Spider",
+            "exp": 4700,
+            "items": [
+                "Double Axe",
+                "Knight Armor",
+                "Knight Legs",
+                "Strange Helmet"
+            ]
+        },
+        {
+            "name": "Corrupted Watcher",
+            "exp": 1800,
+            "items": []
+        },
+        {
+            "name": "Corruptor",
+            "exp": 35700,
+            "items": [
+                "Axe Ring",
+                "Corrupted Backpack",
+                "Deathraze",
+                "Forgotten Soul",
+                "Giant Sword",
+                "Hellforged Axe",
+                "Hellforged Shield",
+                "Magic Plate Boots",
+                "Magic Plate Legs",
+                "Small Diamond",
+                "Sudden Death Rune",
+                "Umbral Boots",
+                "Umbral Helmet",
+                "Unholy Halberd",
+                "Unholy Plate Armor"
+            ]
+        },
+        {
+            "name": "Cougar",
+            "exp": 880,
+            "items": []
+        },
+        {
+            "name": "Crewman",
+            "exp": 190,
+            "items": []
+        },
+        {
+            "name": "Crocodile",
+            "exp": 970,
+            "items": []
+        },
+        {
+            "name": "Crocodile Hatchling",
+            "exp": 120,
+            "items": []
+        },
+        {
+            "name": "Crypt Shambler",
+            "exp": 390,
+            "items": [
+                "Bone Shield",
+                "Iron Helmet",
+                "Small Diamond",
+                "Two Handed Sword"
+            ]
+        },
+        {
+            "name": "Crystal Beetle",
+            "exp": 1550,
+            "items": [
+                "Aquamarine",
+                "Blue Spellwand",
+                "Crystallized Shield",
+                "Ring of the Sky",
+                "Small Sapphire"
+            ]
+        },
+        {
+            "name": "Crystal Bug",
+            "exp": 460,
+            "items": []
+        },
+        {
+            "name": "Crystal Worker",
+            "exp": 50,
+            "items": []
+        },
+        {
+            "name": "Crystalbeast",
+            "exp": 930,
+            "items": [
+                "Battle Shield",
+                "Brass Legs",
+                "Double Axe",
+                "Permafrost Crystal",
+                "Permafrost Stone",
+                "Small Sapphire"
+            ]
+        },
+        {
+            "name": "Cultist Blooddrinker",
+            "exp": 4950,
+            "items": []
+        },
+        {
+            "name": "Cultist Brute",
+            "exp": 2300,
+            "items": []
+        },
+        {
+            "name": "Cultist Hexer",
+            "exp": 3530,
+            "items": []
+        },
+        {
+            "name": "Cursed Skull",
+            "exp": 7200,
+            "items": [
+                "Green Spellwand",
+                "Mind Stone",
+                "Plaguespreader Robe",
+                "Polished Emerald",
+                "Serpent Scepter",
+                "Small Emerald"
+            ]
+        },
+        {
+            "name": "Cyclops",
+            "exp": 300,
+            "items": [
+                "Battle Shield",
+                "Club Ring",
+                "Dark Helmet",
+                "Plate Shield",
+                "Halberd"
+            ]
+        },
+        {
+            "name": "Cyclops Warrior",
+            "exp": 600,
+            "items": [
+                "Battle Shield",
+                "Dark Helmet",
+                "Halberd",
+                "Plate Shield"
+            ]
+        },
+        {
+            "name": "Dark Elf",
+            "exp": 84,
+            "items": []
+        },
+        {
+            "name": "Dark Elf Arcanist",
+            "exp": 350,
+            "items": []
+        },
+        {
+            "name": "Dark Elf Guardian",
+            "exp": 360,
+            "items": []
+        },
+        {
+            "name": "Dark Elf Scout",
+            "exp": 150,
+            "items": []
+        },
+        {
+            "name": "Dark Elf Sharpshooter",
+            "exp": 800,
+            "items": []
+        },
+        {
+            "name": "Dark Elf Swordmaster",
+            "exp": 1240,
+            "items": []
+        },
+        {
+            "name": "Dark Grim",
+            "exp": 6800,
+            "items": [
+                "Grim Boots",
+                "Grim Legs",
+                "Mind Stone",
+                "Orb",
+                "Ring of Healing",
+                "Shadowfall",
+                "Skull Staff",
+                "Small Emerald",
+                "Stone Skin Amulet",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Deathkiss Watcher",
+            "exp": 860,
+            "items": []
+        },
+        {
+            "name": "Deathslicer",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Deer",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Demon",
+            "exp": 12000,
+            "items": [
+                "Blazing Crossbow",
+                "Demon Shield",
+                "Devil Helmet",
+                "Double Axe",
+                "Fire Axe",
+                "Giant Sword",
+                "Gold Ring",
+                "Golden Legs",
+                "Ice Rapier",
+                "Magic Plate Armor",
+                "Mastermind Shield",
+                "Might Ring",
+                "Orb",
+                "Platinum Amulet",
+                "Ring of Healing",
+                "Small Emerald",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Demorc",
+            "exp": 5760,
+            "items": [
+                "Giant Sword",
+                "Polished Emerald",
+                "Serpent Sword",
+                "Small Emerald",
+                "Virulent Clawboots"
+            ]
+        },
+        {
+            "name": "Demorc Brute",
+            "exp": 12000,
+            "items": [
+                "Boots of Haste",
+                "Demon Shield",
+                "Gatecrasher",
+                "Platinum Amulet",
+                "Polished Topaz",
+                "Spiked Club",
+                "Tower Shield",
+                "Virulent Helmet"
+            ]
+        },
+        {
+            "name": "Demorc Warchief",
+            "exp": 20240,
+            "items": [
+                "Bloodcurser",
+                "Curved Axe",
+                "Double Axe Head",
+                "Guardian Halberd",
+                "Heavy Halberd",
+                "Knight Axe",
+                "Virulent Legs"
+            ]
+        },
+        {
+            "name": "Deranger",
+            "exp": 8200,
+            "items": [
+                "Green Spellwand",
+                "Light Armor",
+                "Light Sword",
+                "Mind Stone",
+                "Observer Helmet",
+                "Observer Shield",
+                "Polished Ruby",
+                "Red Spellwand",
+                "Ring of Healing",
+                "Serpent Scepter",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Dog",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Donkey",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Dragon",
+            "exp": 1400,
+            "items": [
+                "Broad Sword",
+                "Burst Arrow",
+                "Double Axe",
+                "Dragon Hammer",
+                "Dragon Shield",
+                "Longsword",
+                "Plate Legs",
+                "Serpent Sword",
+                "Small Diamond",
+                "Steel Helmet",
+                "Steel Shield"
+            ]
+        },
+        {
+            "name": "Dragon Lord",
+            "exp": 4200,
+            "items": [
+                "Dragon Scale Mail",
+                "Fire Sword",
+                "Flaming Bow",
+                "Small Sapphire",
+                "Strange Helmet",
+                "Royal Helmet",
+                "Tower Shield"
+            ]
+        },
+        {
+            "name": "Drake",
+            "exp": 2240,
+            "items": [
+                "Burst Arrow",
+                "Drake Scale Helmet",
+                "Fire Hammer",
+                "Fire Sword",
+                "Ignited Bow",
+                "Plate Armor",
+                "Plate Legs",
+                "Spike Sword"
+            ]
+        },
+        {
+            "name": "Drake Lord",
+            "exp": 6000,
+            "items": [
+                "Burst Arrow",
+                "Fire Hammer",
+                "Fire Sword",
+                "Ignited Bow",
+                "Plate Armor",
+                "Plate Legs",
+                "Royal Helmet",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Dreadlord",
+            "exp": 47100,
+            "items": [
+                "Blazing Crossbow",
+                "Devil Helmet",
+                "Dreadweave Robe",
+                "Elite Knight Helmet",
+                "Emberwake Ring",
+                "Fire Axe",
+                "Fire Sword",
+                "Gold Ring",
+                "Magic Plate Armor",
+                "Polished Ruby",
+                "Vanadinite Legs"
+            ]
+        },
+        {
+            "name": "Dwarf",
+            "exp": 90,
+            "items": []
+        },
+        {
+            "name": "Dwarf Dragoneater",
+            "exp": 850,
+            "items": []
+        },
+        {
+            "name": "Dwarf General",
+            "exp": 5500,
+            "items": [
+                "Axe Ring",
+                "Dwarven Axe",
+                "Dwarven Helmet",
+                "Fire Axe",
+                "Small Amethyst",
+                "Steel Boots"
+            ]
+        },
+        {
+            "name": "Dwarf Geomancer",
+            "exp": 490,
+            "items": []
+        },
+        {
+            "name": "Dwarf Guard",
+            "exp": 330,
+            "items": [
+                "Axe Ring",
+                "Battle Hammer",
+                "Battle Shield",
+                "Double Axe",
+                "Scale Armor",
+                "Small Amethyst",
+                "Steel Helmet"
+            ]
+        },
+        {
+            "name": "Dwarf Slayer",
+            "exp": 330,
+            "items": []
+        },
+        {
+            "name": "Dwarf Soldier",
+            "exp": 140,
+            "items": [
+                "Axe Ring",
+                "Battle Axe",
+                "Bolt",
+                "Chain Armor",
+                "Crossbow",
+                "Dwarven Shield",
+                "Hunting Bolt",
+                "Soldier Helmet"
+            ]
+        },
+        {
+            "name": "Efreet",
+            "exp": 1000,
+            "items": []
+        },
+        {
+            "name": "Elder Watcher",
+            "exp": 560,
+            "items": []
+        },
+        {
+            "name": "Elephant",
+            "exp": 1240,
+            "items": []
+        },
+        {
+            "name": "Elf",
+            "exp": 84,
+            "items": [
+                "Brass Shield",
+                "Longsword"
+            ]
+        },
+        {
+            "name": "Elf Arcanist",
+            "exp": 350,
+            "items": [
+                "Elven Amulet",
+                "Yellow Gem"
+            ]
+        },
+        {
+            "name": "Elf Guardian",
+            "exp": 440,
+            "items": [
+                "Brass Shield",
+                "Guardian Shield",
+                "Longsword"
+            ]
+        },
+        {
+            "name": "Elf Scout",
+            "exp": 250,
+            "items": []
+        },
+        {
+            "name": "Elf Sharpshooter",
+            "exp": 250,
+            "items": [
+                "Assassin Dagger",
+                "Brass Armor",
+                "Chain Armor",
+                "Hunting Arrow",
+                "Hunting Bow",
+                "Platinum Amulet",
+                "Quiver"
+            ]
+        },
+        {
+            "name": "Elf Swordmaster",
+            "exp": 1240,
+            "items": []
+        },
+        {
+            "name": "Ember Beetle",
+            "exp": 520,
+            "items": [
+                "Burst Arrow",
+                "Ember Coin",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Ember Djinn",
+            "exp": 8100,
+            "items": []
+        },
+        {
+            "name": "Emperor Scorpion",
+            "exp": 1600,
+            "items": []
+        },
+        {
+            "name": "Energy Elemental",
+            "exp": 440,
+            "items": []
+        },
+        {
+            "name": "Enraged Wasp",
+            "exp": 480,
+            "items": []
+        },
+        {
+            "name": "Ent",
+            "exp": 5200,
+            "items": []
+        },
+        {
+            "name": "Entling",
+            "exp": 1560,
+            "items": []
+        },
+        {
+            "name": "Evoker",
+            "exp": 1400,
+            "items": [
+                "Crown Armor",
+                "Dragon Shield",
+                "Fireweaver",
+                "Orb"
+            ]
+        },
+        {
+            "name": "Eye of Shadow",
+            "exp": 180,
+            "items": []
+        },
+        {
+            "name": "Fairy Enchantress",
+            "exp": 12800,
+            "items": []
+        },
+        {
+            "name": "Fairy Faeblade",
+            "exp": 13760,
+            "items": []
+        },
+        {
+            "name": "Fairy Seraph",
+            "exp": 15200,
+            "items": []
+        },
+        {
+            "name": "Fairy Songbird",
+            "exp": 13280,
+            "items": []
+        },
+        {
+            "name": "Feralwood Druid",
+            "exp": 16500,
+            "items": [
+                "Boots of Haste",
+                "Crystallized Crossbow",
+                "Crystallized Shield",
+                "Envenomed Crossbow",
+                "Frostwarden",
+                "Permafrost Crystal",
+                "Polished Emerald",
+                "Ring of the Sky",
+                "Serpent Scepter",
+                "Small Emerald",
+                "Small Sapphire"
+            ]
+        },
+        {
+            "name": "Festering Corpse",
+            "exp": 14200,
+            "items": []
+        },
+        {
+            "name": "Fetish Blooodweaver",
+            "exp": 1160,
+            "items": []
+        },
+        {
+            "name": "Fetish Shaman",
+            "exp": 900,
+            "items": []
+        },
+        {
+            "name": "Fetish Warrior",
+            "exp": 960,
+            "items": []
+        },
+        {
+            "name": "Fiery Beetle",
+            "exp": 3700,
+            "items": [
+                "Burst Arrow",
+                "Ember Coin",
+                "Fiery Armor",
+                "Fiery Bow",
+                "Fiery Hammer",
+                "Fiery Helmet",
+                "Fireweaver",
+                "Red Tunic",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Fiery Skeleton",
+            "exp": 580,
+            "items": []
+        },
+        {
+            "name": "Fire Ant",
+            "exp": 190,
+            "items": []
+        },
+        {
+            "name": "Fire Ant Soldier",
+            "exp": 1300,
+            "items": []
+        },
+        {
+            "name": "Fire Ant Worker",
+            "exp": 470,
+            "items": []
+        },
+        {
+            "name": "Fire Devil",
+            "exp": 320,
+            "items": [
+                "Double Axe",
+                "Guardian Shield",
+                "Small Amethyst"
+            ]
+        },
+        {
+            "name": "Fire Elemental",
+            "exp": 440,
+            "items": []
+        },
+        {
+            "name": "Firefly",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Fish",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Flamebringer",
+            "exp": 33600,
+            "items": [
+                "Blazing Crossbow",
+                "Blazing Greatsword",
+                "Demon Backpack",
+                "Fire Axe",
+                "Fire Sword",
+                "Fireweaver",
+                "Flaming Aegis",
+                "Hellforged Axe",
+                "Knight Axe",
+                "Magic Plate Boots",
+                "Magic Plate Legs",
+                "Vanadinite Helmet"
+            ]
+        },
+        {
+            "name": "Flamingo",
+            "exp": 60,
+            "items": []
+        },
+        {
+            "name": "Fledgling Dragon",
+            "exp": 840,
+            "items": []
+        },
+        {
+            "name": "Fledgling Dragon Lord",
+            "exp": 1180,
+            "items": [
+                "Battle Shield",
+                "Fire Sword",
+                "Fireweaver",
+                "Plate Armor",
+                "Red Dragon Scale",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Forgotten Pharaoh",
+            "exp": 3100,
+            "items": [
+                "Ancient Amulet",
+                "Ancient Shield",
+                "Golden Staff",
+                "Pharaoh Boots",
+                "Red Skirt",
+                "Small Diamond",
+                "Small Emerald",
+                "Small Ruby",
+                "Unholy Plate Armor"
+            ]
+        },
+        {
+            "name": "Frog",
+            "exp": 12,
+            "items": []
+        },
+        {
+            "name": "Frost Dragon",
+            "exp": 5200,
+            "items": [
+                "Dragon Slayer",
+                "Frostwarden",
+                "Frozen Shield",
+                "Heavy Frozen Missile Rune",
+                "Permafrost Longsword",
+                "Permafrost Morningstar",
+                "Royal Helmet",
+                "Small Sapphire",
+                "Strange Helmet",
+                "Tower Shield"
+            ]
+        },
+        {
+            "name": "Frost Drake",
+            "exp": 2140,
+            "items": [
+                "Crystallized Crossbow",
+                "Frostwarden",
+                "Frozen Shield",
+                "Heavy Frozen Missile Rune",
+                "Permafrost Longsword",
+                "Plate Shield",
+                "Royal Helmet",
+                "Small Sapphire",
+                "Steel Helmet",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Frost Troll",
+            "exp": 46,
+            "items": []
+        },
+        {
+            "name": "Frostclaw",
+            "exp": 16000,
+            "items": []
+        },
+        {
+            "name": "Frostmaiden",
+            "exp": 9000,
+            "items": []
+        },
+        {
+            "name": "Gargoyle",
+            "exp": 330,
+            "items": []
+        },
+        {
+            "name": "Ghost",
+            "exp": 240,
+            "items": []
+        },
+        {
+            "name": "Ghoul",
+            "exp": 170,
+            "items": [
+                "Brass Helmet",
+                "Life Ring",
+                "Scale Armor",
+                "Viking Helmet"
+            ]
+        },
+        {
+            "name": "Giant Cobra",
+            "exp": 2640,
+            "items": [
+                "Ancient Boots",
+                "Battle Shield",
+                "Iron Helmet",
+                "Plate Armor",
+                "Plate Legs",
+                "Small Emerald",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Giant Energy Elemental",
+            "exp": 8400,
+            "items": [
+                "Electric Armor",
+                "Electric Helmet",
+                "Electric Legs",
+                "Heart of Lightning",
+                "Living Thunder",
+                "Ring of the Sky",
+                "Small Sapphire",
+                "Stormcaller"
+            ]
+        },
+        {
+            "name": "Giant Fire Elemental",
+            "exp": 1940,
+            "items": []
+        },
+        {
+            "name": "Giant Ice Elemental",
+            "exp": 1160,
+            "items": []
+        },
+        {
+            "name": "Giant Revenant",
+            "exp": 3250,
+            "items": []
+        },
+        {
+            "name": "Giant Skeleton",
+            "exp": 2540,
+            "items": []
+        },
+        {
+            "name": "Giant Spider",
+            "exp": 2000,
+            "items": [
+                "Brass Legs",
+                "Knight Armor",
+                "Knight Legs",
+                "Plate Armor",
+                "Platinum Amulet",
+                "Steel Helmet",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Goat",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Goblin",
+            "exp": 50,
+            "items": []
+        },
+        {
+            "name": "Goblin Warrior",
+            "exp": 50,
+            "items": []
+        },
+        {
+            "name": "Gorgon",
+            "exp": 12050,
+            "items": [
+                "Boots of Haste",
+                "Gold Ring",
+                "Golden Armor",
+                "Medusa Shield",
+                "Poisoned Bow",
+                "Ring of Healing",
+                "Serpent Scepter",
+                "Serpent Sword",
+                "Small Emerald",
+                "Venomous Mace"
+            ]
+        },
+        {
+            "name": "Green Djinn",
+            "exp": 600,
+            "items": []
+        },
+        {
+            "name": "Grim Adept",
+            "exp": 3050,
+            "items": [
+                "Grim Boots",
+                "Grim Legs",
+                "Life Ring",
+                "Skull Staff"
+            ]
+        },
+        {
+            "name": "Harpy",
+            "exp": 510,
+            "items": []
+        },
+        {
+            "name": "Harpy Queen",
+            "exp": 1300,
+            "items": []
+        },
+        {
+            "name": "Harpy Spellweaver",
+            "exp": 760,
+            "items": []
+        },
+        {
+            "name": "Havoc Apostle",
+            "exp": 1660000,
+            "items": []
+        },
+        {
+            "name": "Hellfire",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Hellion",
+            "exp": 7300,
+            "items": [
+                "Devil Helmet",
+                "Fire Axe",
+                "Fire Sword",
+                "Polished Ruby",
+                "Red Spellwand"
+            ]
+        },
+        {
+            "name": "Hellish Skeleton",
+            "exp": 360,
+            "items": []
+        },
+        {
+            "name": "Heretic",
+            "exp": 48,
+            "items": []
+        },
+        {
+            "name": "Hero",
+            "exp": 2400,
+            "items": [
+                "Crown Armor",
+                "Crown Helmet",
+                "Crown Legs",
+                "Crown Shield",
+                "Fire Sword",
+                "Might Ring",
+                "Two Handed Sword",
+                "War Hammer"
+            ]
+        },
+        {
+            "name": "Hippopotamus",
+            "exp": 560,
+            "items": []
+        },
+        {
+            "name": "Holy Sentinel",
+            "exp": 41400,
+            "items": [
+                "Angelic Boots",
+                "Angelic Helmet",
+                "Angelic Platemail",
+                "Boots of Haste",
+                "Bright Sword",
+                "Dawnlight",
+                "Elite Knight Helmet",
+                "Elite Knight Legs",
+                "Gold Ring",
+                "Silver Dagger",
+                "Small Diamond",
+                "Tower Shield"
+            ]
+        },
+        {
+            "name": "Horse",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Hungry Rat",
+            "exp": 10,
+            "items": []
+        },
+        {
+            "name": "Hunter",
+            "exp": 300,
+            "items": [
+                "Brass Armor",
+                "Brass Helmet",
+                "Burst Arrow",
+                "Hunting Arrow",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Huntsman Spider",
+            "exp": 2840,
+            "items": [
+                "Huntsman Armor",
+                "Serpent Scepter",
+                "Steel Helmet",
+                "Steel Shield",
+                "The Sky Piercer",
+                "Two Handed Sword",
+                "Warrior Helmet"
+            ]
+        },
+        {
+            "name": "Hyaena",
+            "exp": 70,
+            "items": []
+        },
+        {
+            "name": "Hydra",
+            "exp": 8600,
+            "items": []
+        },
+        {
+            "name": "Ice Elemental",
+            "exp": 380,
+            "items": []
+        },
+        {
+            "name": "Ice Golem",
+            "exp": 5000,
+            "items": [
+                "Ancient Armor",
+                "Crystallized Crossbow",
+                "Double Axe",
+                "Frozen Shield",
+                "Heavy Frozen Missile Rune",
+                "Ice Rapier",
+                "Permafrost Longsword",
+                "Permafrost Morningstar"
+            ]
+        },
+        {
+            "name": "Ice Phoenix",
+            "exp": 9000,
+            "items": []
+        },
+        {
+            "name": "Icon of Light",
+            "exp": 41000,
+            "items": [
+                "Angelic Plate Armor",
+                "Bascinet",
+                "Elite Knight Armor",
+                "Elite Knight Boots",
+                "Golden Legs",
+                "Guardian Halberd",
+                "Noble Armor",
+                "Sacred Arbalest",
+                "Steel Boots"
+            ]
+        },
+        {
+            "name": "Imperial Soldier",
+            "exp": 1300,
+            "items": [
+                "Brass Legs",
+                "Crusader Helmet",
+                "Light Sword",
+                "Morning Star",
+                "Imperial Soldier Armor",
+                "Imperial Soldier Shield"
+            ]
+        },
+        {
+            "name": "Incidamus",
+            "exp": 24000,
+            "items": [
+                "Deepshadow Legs",
+                "Deepshadow Mask",
+                "Forgotten Soul",
+                "Giant Sword",
+                "Mastermind Shield",
+                "Mind Stone",
+                "Polished Amethyst",
+                "Shadowfall",
+                "Soulstealer Armor",
+                "Steel Boots",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Injured Rat",
+            "exp": 8,
+            "items": []
+        },
+        {
+            "name": "Jaguar",
+            "exp": 650,
+            "items": []
+        },
+        {
+            "name": "Jothun",
+            "exp": 2100,
+            "items": [
+                "Club Ring",
+                "Crystallized Shield",
+                "Permafrost Morningstar",
+                "Platinum Amulet",
+                "War Hammer"
+            ]
+        },
+        {
+            "name": "Jothun Elder",
+            "exp": 5500,
+            "items": [
+                "Crystallized Crossbow",
+                "Frozen Shield",
+                "Silver Mace",
+                "Small Sapphire",
+                "Steel Boots"
+            ]
+        },
+        {
+            "name": "Killer Wasp",
+            "exp": 250,
+            "items": []
+        },
+        {
+            "name": "Larva",
+            "exp": 88,
+            "items": []
+        },
+        {
+            "name": "Lich",
+            "exp": 1800,
+            "items": [
+                "Black Pearl",
+                "Blue Robe",
+                "Mind Stone",
+                "Platinum Amulet",
+                "Ring of Healing",
+                "Strange Helmet",
+                "White Pearl"
+            ]
+        },
+        {
+            "name": "Lightbringer Hero",
+            "exp": 21000,
+            "items": [
+                "Bascinet",
+                "Executioner's Sword",
+                "Heavy Halberd",
+                "Hellforged Legs",
+                "Lightbringer Helmet",
+                "Steel Boots"
+            ]
+        },
+        {
+            "name": "Lightbringer Knight",
+            "exp": 7000,
+            "items": [
+                "Hellforged Shield",
+                "Knight Armor",
+                "Knight Legs",
+                "Silver Mace",
+                "Swinging Demolisher"
+            ]
+        },
+        {
+            "name": "Lion",
+            "exp": 60,
+            "items": []
+        },
+        {
+            "name": "Luna Troll",
+            "exp": 70,
+            "items": []
+        },
+        {
+            "name": "Maggot",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Magma Dragon",
+            "exp": 26800,
+            "items": []
+        },
+        {
+            "name": "Magma Golem",
+            "exp": 750,
+            "items": []
+        },
+        {
+            "name": "Manacrawler",
+            "exp": 2250,
+            "items": []
+        },
+        {
+            "name": "Maneater",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Manticore",
+            "exp": 11400,
+            "items": [
+                "Ancient Boots",
+                "Ancient Legs",
+                "Crown Armor",
+                "Gold Ring",
+                "Halberd",
+                "Hellforged Shield",
+                "Knight Axe",
+                "Orb",
+                "Poisoned Bow",
+                "Scorpid Hood",
+                "Serpent Sword",
+                "Small Emerald",
+                "The Stinger",
+                "Vanquisher"
+            ]
+        },
+        {
+            "name": "Marid",
+            "exp": 1000,
+            "items": []
+        },
+        {
+            "name": "Mercenary",
+            "exp": 250,
+            "items": [
+                "Chain Helmet",
+                "Double Axe",
+                "Plate Armor",
+                "Protection Amulet",
+                "Small Diamond",
+                "Small Ruby"
+            ]
+        },
+        {
+            "name": "Mercenary Cavalry",
+            "exp": 330,
+            "items": [
+                "Chain Armor",
+                "Chain Helmet",
+                "Double Axe",
+                "Plate Armor",
+                "Protection Amulet",
+                "Small Diamond"
+            ]
+        },
+        {
+            "name": "Mindless Worshiper",
+            "exp": 1140,
+            "items": []
+        },
+        {
+            "name": "Minotaur",
+            "exp": 100,
+            "items": [
+                "Brass Helmet",
+                "Chain Armor",
+                "Chain Helmet",
+                "Mace",
+                "Plate Shield",
+                "Sword"
+            ]
+        },
+        {
+            "name": "Minotaur Archer",
+            "exp": 130,
+            "items": [
+                "Bolt",
+                "Brass Armor",
+                "Chain Armor",
+                "Chain Helmet",
+                "Chain Legs",
+                "Crossbow",
+                "Hunting Bolt",
+                "Scale Armor",
+                "Soldier Helmet"
+            ]
+        },
+        {
+            "name": "Minotaur Guard",
+            "exp": 320,
+            "items": [
+                "Battle Shield",
+                "Brass Armor",
+                "Chain Armor",
+                "Double Axe"
+            ]
+        },
+        {
+            "name": "Minotaur Mage",
+            "exp": 300,
+            "items": [
+                "Brass Armor",
+                "Chain Legs",
+                "Fireweaver",
+                "Minotaur Tome"
+            ]
+        },
+        {
+            "name": "Monk",
+            "exp": 440,
+            "items": []
+        },
+        {
+            "name": "Mud Wasp",
+            "exp": 98,
+            "items": []
+        },
+        {
+            "name": "Mugger",
+            "exp": 70,
+            "items": []
+        },
+        {
+            "name": "Mummy",
+            "exp": 300,
+            "items": [
+                "Black Pearl",
+                "Black Shield"
+            ]
+        },
+        {
+            "name": "Mutated Rat",
+            "exp": 160,
+            "items": []
+        },
+        {
+            "name": "Necromancer",
+            "exp": 1160,
+            "items": [
+                "Boots of Haste",
+                "Clerical Mace",
+                "Mystic Turban",
+                "Serpent Scepter",
+                "Skull Staff"
+            ]
+        },
+        {
+            "name": "Nether Spider",
+            "exp": 3500,
+            "items": [
+                "Brass Legs",
+                "Nether Shield",
+                "Obsidian Lance",
+                "Plate Armor",
+                "Platinum Amulet",
+                "Poisoned Bow",
+                "Steel Helmet",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Nether Spiderling",
+            "exp": 48,
+            "items": []
+        },
+        {
+            "name": "Nightcrawler",
+            "exp": 380,
+            "items": []
+        },
+        {
+            "name": "Nightmare",
+            "exp": 6800,
+            "items": [
+                "Black Pearl",
+                "Boots of Haste",
+                "Mind Stone",
+                "Ring of Healing",
+                "Sudden Death Rune",
+                "Unholy Plate Armor"
+            ]
+        },
+        {
+            "name": "Obsidian Dragon",
+            "exp": 40800,
+            "items": []
+        },
+        {
+            "name": "Oculus",
+            "exp": 3600,
+            "items": []
+        },
+        {
+            "name": "Ogre Gruntz",
+            "exp": 1800,
+            "items": [
+                "Barbarian Axe",
+                "Battle Hammer",
+                "Club Ring",
+                "Halberd",
+                "Mace",
+                "Morning Star",
+                "Platinum Amulet",
+                "Small Emerald",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Ogre Smasher",
+            "exp": 3500,
+            "items": [
+                "Club Ring",
+                "Halberd",
+                "Illumination Ring",
+                "Platinum Amulet",
+                "Wooden Maul"
+            ]
+        },
+        {
+            "name": "Ogre Warrior",
+            "exp": 4500,
+            "items": [
+                "Battle Hammer",
+                "Club Ring",
+                "Dragon Hammer",
+                "Gold Ring",
+                "Hellforged Helmet",
+                "Illumination Ring",
+                "Mace",
+                "Morning Star",
+                "Obsidian Lance",
+                "Platinum Amulet",
+                "Skull Staff",
+                "Small Ruby",
+                "War Hammer"
+            ]
+        },
+        {
+            "name": "Old Skeleton",
+            "exp": 150,
+            "items": []
+        },
+        {
+            "name": "Orc",
+            "exp": 50,
+            "items": []
+        },
+        {
+            "name": "Orc Berserker",
+            "exp": 390,
+            "items": [
+                "Battle Axe",
+                "Chain Armor",
+                "Chain Helmet",
+                "Halberd"
+            ]
+        },
+        {
+            "name": "Orc Bowman",
+            "exp": 360,
+            "items": []
+        },
+        {
+            "name": "Orc Leader",
+            "exp": 540,
+            "items": [
+                "Brass Legs",
+                "Broad Sword",
+                "Longsword",
+                "Plate Armor",
+                "Plate Legs",
+                "Plate Shield",
+                "Scimitar",
+                "Sword Ring",
+                "Warrior Helmet"
+            ]
+        },
+        {
+            "name": "Orc Rider",
+            "exp": 290,
+            "items": []
+        },
+        {
+            "name": "Orc Shaman",
+            "exp": 220,
+            "items": [
+                "Blue Spellwand"
+            ]
+        },
+        {
+            "name": "Orc Spearman",
+            "exp": 128,
+            "items": []
+        },
+        {
+            "name": "Orc Warlord",
+            "exp": 1340,
+            "items": [
+                "Brass Armor",
+                "Brass Legs",
+                "Crusader Helmet",
+                "Dark Helmet",
+                "Dragon Hammer",
+                "Gold Ring",
+                "Plate Armor",
+                "Plate Legs",
+                "Protection Amulet",
+                "Scimitar",
+                "Stealth Ring",
+                "Two Handed Sword"
+            ]
+        },
+        {
+            "name": "Orc Warrior",
+            "exp": 100,
+            "items": []
+        },
+        {
+            "name": "Panda",
+            "exp": 37,
+            "items": []
+        },
+        {
+            "name": "Pegasus",
+            "exp": 69400,
+            "items": []
+        },
+        {
+            "name": "Phoenix",
+            "exp": 18000,
+            "items": [
+                "Blazing Crossbow",
+                "Burst Arrow",
+                "Fiery Bow",
+                "Fire Axe",
+                "Fire Hammer",
+                "Fire Sword",
+                "Fireweaver",
+                "Flaming Bow",
+                "Gold Ring",
+                "Golden Amulet",
+                "Golden Armor",
+                "Golden Legs",
+                "Phoenix Backpack",
+                "Red Frozen Starlight",
+                "Small Ruby",
+                "Talon",
+                "Vanadinite Armor"
+            ]
+        },
+        {
+            "name": "Pig",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Pit Lord",
+            "exp": 3340,
+            "items": []
+        },
+        {
+            "name": "Plague Carrier",
+            "exp": 14000,
+            "items": []
+        },
+        {
+            "name": "Plague Worm",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Plant Devourer",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Poison Spider",
+            "exp": 44,
+            "items": []
+        },
+        {
+            "name": "Polar Bear",
+            "exp": 96,
+            "items": []
+        },
+        {
+            "name": "Possessed Chicken",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Priest of Light",
+            "exp": 8000,
+            "items": [
+                "Ankh",
+                "Boots of Haste",
+                "Golden Armor",
+                "Holy Scepter",
+                "Small Topaz",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Priestess",
+            "exp": 800,
+            "items": [
+                "Black Shield",
+                "Blood Herb",
+                "Clerical Mace",
+                "Crystal Ball",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Priestess of Light",
+            "exp": 8000,
+            "items": [
+                "Ankh",
+                "Boots of Haste",
+                "Dawnlight",
+                "Golden Armor",
+                "Holy Scepter",
+                "Small Topaz",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Rabbit",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Radiant Crusader",
+            "exp": 22400,
+            "items": []
+        },
+        {
+            "name": "Radiant Paladin",
+            "exp": 26800,
+            "items": []
+        },
+        {
+            "name": "Rat",
+            "exp": 10,
+            "items": []
+        },
+        {
+            "name": "Red Wyvern",
+            "exp": 7200,
+            "items": [
+                "Fire Hammer",
+                "Fire Sword",
+                "Flaming Bow",
+                "Golden Armor",
+                "Red Spellwand",
+                "Small Ruby",
+                "Vanadinite Helmet"
+            ]
+        },
+        {
+            "name": "Restless Skeleton",
+            "exp": 1540,
+            "items": []
+        },
+        {
+            "name": "Revenant",
+            "exp": 480,
+            "items": [
+                "Battle Hammer",
+                "Battle Shield",
+                "Guardian Shield",
+                "Iron Helmet",
+                "Mace",
+                "Mind Stone"
+            ]
+        },
+        {
+            "name": "Ritualist",
+            "exp": 42600,
+            "items": [
+                "Blue Robe",
+                "Boots of Haste",
+                "Gold Ring",
+                "Golden Legs",
+                "Magic Plate Armor",
+                "Mastermind Shield",
+                "Ring of the Sky",
+                "Small Onyx",
+                "Talon",
+                "Umbral Robe",
+                "Void Mace",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Rogue",
+            "exp": 120,
+            "items": []
+        },
+        {
+            "name": "Rohazim",
+            "exp": 9000,
+            "items": []
+        },
+        {
+            "name": "Rooster",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Rotworm",
+            "exp": 80,
+            "items": [
+                "Mace",
+                "Sword"
+            ]
+        },
+        {
+            "name": "Royalist",
+            "exp": 10000,
+            "items": [
+                "Arming Sword",
+                "Bascinet",
+                "Platinum Amulet",
+                "Royal Plate Armor",
+                "Steel Boots",
+                "Imperial Soldier Legs"
+            ]
+        },
+        {
+            "name": "Sabertooth",
+            "exp": 790,
+            "items": []
+        },
+        {
+            "name": "Sand Spider",
+            "exp": 100,
+            "items": []
+        },
+        {
+            "name": "Sand Troll",
+            "exp": 70,
+            "items": []
+        },
+        {
+            "name": "Sandbeast",
+            "exp": 1240,
+            "items": [
+                "Brass Legs",
+                "Dark Armor",
+                "Dark Helmet",
+                "Scimitar",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Sandskull Spider",
+            "exp": 3080,
+            "items": [
+                "Battle Shield",
+                "Brass Armor",
+                "Brass Legs",
+                "Iron Helmet",
+                "Knight Helmet",
+                "Spider Silk Armor"
+            ]
+        },
+        {
+            "name": "Scarab",
+            "exp": 380,
+            "items": [
+                "Scarab Coin",
+                "Small Amethyst",
+                "Small Emerald"
+            ]
+        },
+        {
+            "name": "Scorpion",
+            "exp": 90,
+            "items": []
+        },
+        {
+            "name": "Screamer",
+            "exp": 8000,
+            "items": []
+        },
+        {
+            "name": "Shade",
+            "exp": 7700,
+            "items": [
+                "Ancient Boots",
+                "Deepshadow Boots",
+                "Polished Amethyst",
+                "Shadowfall",
+                "Strange Helmet"
+            ]
+        },
+        {
+            "name": "Shadow",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Shadow Drake",
+            "exp": 23000,
+            "items": [
+                "Ancient Helmet",
+                "Ancient Legs",
+                "Chaos Shield",
+                "Golden Armor",
+                "Magic Plate Armor",
+                "Mind Stone",
+                "Serpent Sword",
+                "Shadowfall",
+                "Steel Boots",
+                "Void Mace"
+            ]
+        },
+        {
+            "name": "Shadow Guard",
+            "exp": 38600,
+            "items": [
+                "Ancient Helmet",
+                "Ancient Sword",
+                "Giant Sword",
+                "Gold Ring",
+                "Hellforged Shield",
+                "Knight Legs",
+                "Small Onyx",
+                "Umbral Plate Armor",
+                "Umbral Platemail"
+            ]
+        },
+        {
+            "name": "Shadow Phoenix",
+            "exp": 21000,
+            "items": [
+                "Amulet of Loss",
+                "Arming Sword",
+                "Bascinet",
+                "Light Sword",
+                "Mind Stone",
+                "Orb",
+                "Polished Amethyst",
+                "Purple Frozen Starlight",
+                "Shadow Phoenix Backpack",
+                "Shadowfall",
+                "Shadowfall Crossbow",
+                "Skull Staff",
+                "Small Onyx",
+                "Steel Boots",
+                "Unholy Plate Armor",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Shakirian Prayer",
+            "exp": 4500,
+            "items": [
+                "Ancient Amulet",
+                "Aquamarine",
+                "Blue Robe",
+                "Great Fireball Rune",
+                "Heavy Magic Missile Rune",
+                "Illumination Ring",
+                "Might Ring",
+                "Shakirian Spellbook",
+                "Shakirian Wand",
+                "Shakirian Waraxe",
+                "Stone Skin Amulet",
+                "Sudden Death Rune",
+                "Ultimate Healing Rune",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Shattered Soul",
+            "exp": 7000,
+            "items": [
+                "Assassin Dagger",
+                "Black Pearl",
+                "Blue Robe",
+                "Soul Dagger",
+                "White Pearl"
+            ]
+        },
+        {
+            "name": "Sheep",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Skeleton",
+            "exp": 70,
+            "items": [
+                "Brass Shield",
+                "Mace",
+                "Sword",
+                "Viking Helmet"
+            ]
+        },
+        {
+            "name": "Skeleton Archer",
+            "exp": 360,
+            "items": []
+        },
+        {
+            "name": "Skeleton Mage",
+            "exp": 1800,
+            "items": []
+        },
+        {
+            "name": "Skeleton Plaguespreader",
+            "exp": 950,
+            "items": [
+                "Green Spellwand",
+                "Plaguespreader Robe",
+                "Plaguespreader Rod",
+                "Small Emerald"
+            ]
+        },
+        {
+            "name": "Skeleton Sharpshooter",
+            "exp": 790,
+            "items": []
+        },
+        {
+            "name": "Skeleton Warlord",
+            "exp": 9400,
+            "items": [
+                "Black Pearl",
+                "Dark Armor",
+                "Dark Helmet",
+                "Gatecrasher",
+                "Skull Staff",
+                "Steel Boots",
+                "Time Ring",
+                "War Hammer",
+                "Warlord Helmet"
+            ]
+        },
+        {
+            "name": "Skull Reaper",
+            "exp": 6280,
+            "items": [
+                "Blue Hood",
+                "Boots of Haste",
+                "Dark Armor",
+                "Orb",
+                "Permafrost Robe",
+                "Platinum Amulet",
+                "Small Sapphire",
+                "Soul Reaper"
+            ]
+        },
+        {
+            "name": "Slave Guard",
+            "exp": 2050,
+            "items": [
+                "Mystic Turban",
+                "Shakirian Blade",
+                "Shakirian Shield",
+                "Sword Ring"
+            ]
+        },
+        {
+            "name": "Slave Hunter",
+            "exp": 540,
+            "items": [
+                "Mystic Turban",
+                "Shakirian Bow"
+            ]
+        },
+        {
+            "name": "Slime",
+            "exp": 320,
+            "items": []
+        },
+        {
+            "name": "Small Spider",
+            "exp": 4,
+            "items": []
+        },
+        {
+            "name": "Snake",
+            "exp": 20,
+            "items": []
+        },
+        {
+            "name": "Snow Ravager",
+            "exp": 1600,
+            "items": [
+                "Frost Dagger",
+                "Permafrost Longsword",
+                "Permafrost Stone"
+            ]
+        },
+        {
+            "name": "Soulless",
+            "exp": 2800,
+            "items": [
+                "Deepshadow Boots",
+                "Knight Helmet",
+                "Knight Legs",
+                "Soul Dagger"
+            ]
+        },
+        {
+            "name": "Spectral Archon",
+            "exp": 21200,
+            "items": []
+        },
+        {
+            "name": "Spectralist",
+            "exp": 7300,
+            "items": []
+        },
+        {
+            "name": "Sphinx",
+            "exp": 4400,
+            "items": [
+                "Ancient Helmet",
+                "Ancient Legs",
+                "Gold Ring",
+                "Mastermind Shield",
+                "Mind Stone",
+                "Ring of Healing",
+                "Sphinx Claw",
+                "Torn Quicksand Boots",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Sphinx Youngling",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Spider",
+            "exp": 24,
+            "items": []
+        },
+        {
+            "name": "Stone Golem",
+            "exp": 320,
+            "items": []
+        },
+        {
+            "name": "Stone Rotworm",
+            "exp": 110,
+            "items": []
+        },
+        {
+            "name": "Storm Elemental",
+            "exp": 16800,
+            "items": []
+        },
+        {
+            "name": "Stormbringer",
+            "exp": 31900,
+            "items": []
+        },
+        {
+            "name": "Succubus",
+            "exp": 19600,
+            "items": [
+                "Broken Whip",
+                "Demon Shield",
+                "Fire Axe",
+                "Fire Whip",
+                "Fireweaver",
+                "Golden Armor",
+                "Heart Backpack",
+                "Mastermind Shield",
+                "Red Spellwand",
+                "Royal Helmet"
+            ]
+        },
+        {
+            "name": "Swamp Abomination",
+            "exp": 1300,
+            "items": []
+        },
+        {
+            "name": "Swamp Demon",
+            "exp": 3150,
+            "items": [
+                "Envenomed Crossbow",
+                "Knight Armor",
+                "Serpent Sword",
+                "Small Diamond",
+                "The Stinger",
+                "Time Ring"
+            ]
+        },
+        {
+            "name": "Swamp Leech",
+            "exp": 580,
+            "items": []
+        },
+        {
+            "name": "Swamp Troll",
+            "exp": 50,
+            "items": []
+        },
+        {
+            "name": "Swarm of Fireflies",
+            "exp": 0,
+            "items": []
+        },
+        {
+            "name": "Swashbuckler",
+            "exp": 360,
+            "items": []
+        },
+        {
+            "name": "Tar Monstrosity",
+            "exp": 2160,
+            "items": [
+                "Ancient Shield",
+                "Demonbone Boots",
+                "Gold Ring",
+                "Protection Amulet",
+                "Strange Helmet",
+                "Sudden Death Rune"
+            ]
+        },
+        {
+            "name": "Tar Priest",
+            "exp": 8400,
+            "items": [
+                "Ankh",
+                "Blue Robe",
+                "Boots of Haste",
+                "Dark Armor",
+                "Demonbone Armor",
+                "Demonbone Helmet",
+                "Life Ring",
+                "Orb",
+                "Ring of the Sky",
+                "Serpent Scepter",
+                "Wand of Light"
+            ]
+        },
+        {
+            "name": "Titan",
+            "exp": 5000,
+            "items": [
+                "Bright Sword",
+                "Dark Armor",
+                "Double Axe",
+                "Giant Sword",
+                "Plate Armor",
+                "Small Amethyst",
+                "Steel Boots",
+                "Two Handed Sword"
+            ]
+        },
+        {
+            "name": "Tortoise",
+            "exp": 110,
+            "items": []
+        },
+        {
+            "name": "Troll",
+            "exp": 40,
+            "items": []
+        },
+        {
+            "name": "Typhon",
+            "exp": 39900,
+            "items": [
+                "Ancient Armor",
+                "Ancient Boots",
+                "Ancient Legs",
+                "Envenomed Crossbow",
+                "Poisoned Bow",
+                "Scorpid Hood",
+                "Venomous Mace",
+                "Virulent Armor"
+            ]
+        },
+        {
+            "name": "Undead Dragon",
+            "exp": 37000,
+            "items": [
+                "Ancient Helmet",
+                "Black Pearl",
+                "Dragon Lance",
+                "Dragon Slayer",
+                "Giant Sword",
+                "Hellforged Armor",
+                "Hellforged Axe",
+                "Hellforged Shield",
+                "Shadowfall",
+                "Skull Staff",
+                "Small Emerald",
+                "Small Sapphire",
+                "Tower Shield",
+                "Two Handed Sword",
+                "War Hammer"
+            ]
+        },
+        {
+            "name": "Undead Reaper",
+            "exp": 9800,
+            "items": []
+        },
+        {
+            "name": "Undead Behemoth",
+            "exp": 13300,
+            "items": [
+                "Arming Sword",
+                "Golden Armor",
+                "Golden Legs",
+                "Hellforged Shield",
+                "Might Ring",
+                "Steel Boots",
+                "Strange Symbol",
+                "Syringe of Disease",
+                "Warrior Helmet"
+            ]
+        },
+        {
+            "name": "Vampire",
+            "exp": 610,
+            "items": [
+                "Black Pearl",
+                "Ice Rapier",
+                "Spike Sword",
+                "Strange Helmet",
+                "Vampire Shield"
+            ]
+        },
+        {
+            "name": "Venerator",
+            "exp": 24510,
+            "items": [
+                "Ancient Armor",
+                "Ancient Helmet",
+                "Green Spellwand",
+                "Lich Grimoire",
+                "Magic Plate Boots",
+                "Plaguespreader Robe",
+                "Plaguespreader Rod",
+                "Polished Sapphire",
+                "Royal Plate Armor",
+                "Serpent Scepter",
+                "Tainted Soul",
+                "Venerator Mask"
+            ]
+        },
+        {
+            "name": "Vigilante",
+            "exp": 2150,
+            "items": []
+        },
+        {
+            "name": "War Wolf",
+            "exp": 110,
+            "items": []
+        },
+        {
+            "name": "Warlock",
+            "exp": 8000,
+            "items": [
+                "Blue Robe",
+                "Golden Armor",
+                "Mind Stone",
+                "Ring of the Sky",
+                "Skull Staff",
+                "Small Sapphire",
+                "Stone Skin Amulet",
+                "Stormcaller",
+                "Talon"
+            ]
+        },
+        {
+            "name": "Wasp",
+            "exp": 30,
+            "items": []
+        },
+        {
+            "name": "Watcher",
+            "exp": 340,
+            "items": []
+        },
+        {
+            "name": "Water Elemental",
+            "exp": 8500,
+            "items": []
+        },
+        {
+            "name": "Waterblob",
+            "exp": 520,
+            "items": []
+        },
+        {
+            "name": "Weakened Shadow",
+            "exp": 12600,
+            "items": []
+        },
+        {
+            "name": "Wendigo",
+            "exp": 1030,
+            "items": [
+                "Battle Shield",
+                "Blue Spellwand",
+                "Brass Armor",
+                "Crystallized Crossbow",
+                "Permafrost Longsword",
+                "Wendigo Staff"
+            ]
+        },
+        {
+            "name": "Wight",
+            "exp": 10000,
+            "items": [
+                "Black Pearl",
+                "Blue Robe",
+                "Bone Shield",
+                "Boots of Haste",
+                "Devil Helmet",
+                "Protection Amulet",
+                "Ring of Healing",
+                "Red Robe",
+                "Silver Amulet",
+                "Skull Staff",
+                "Stone Skin Amulet",
+                "Tower Shield",
+                "White Pearl"
+            ]
+        },
+        {
+            "name": "Wild Gryphon",
+            "exp": 2650,
+            "items": []
+        },
+        {
+            "name": "Wild Warrior",
+            "exp": 120,
+            "items": [
+                "Brass Armor",
+                "Brass Shield",
+                "Iron Helmet",
+                "Mace",
+                "Steel Shield",
+                "War Hammer"
+            ]
+        },
+        {
+            "name": "Winged Vermin",
+            "exp": 2500,
+            "items": []
+        },
+        {
+            "name": "Winter Wolf",
+            "exp": 40,
+            "items": []
+        },
+        {
+            "name": "Witch",
+            "exp": 520,
+            "items": []
+        },
+        {
+            "name": "Wolf",
+            "exp": 36,
+            "items": []
+        },
+        {
+            "name": "Worm Queen",
+            "exp": 9000,
+            "items": []
+        },
+        {
+            "name": "Wraith",
+            "exp": 8400,
+            "items": [
+                "Blue Hood",
+                "Blue Robe",
+                "Permafrost Longsword",
+                "Permafrost Morningstar",
+                "Small Sapphire",
+                "Wand of Light"
+            ]
+        }
+    ]
+}
