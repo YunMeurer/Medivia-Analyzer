@@ -841,30 +841,47 @@ class MediviaAnalyzer(tk.Tk):
                 new_lines = file.readlines()
                 self.last_position = file.tell()
 
-                current_date = None
+                log_section_datetime = None
                 for line in new_lines:
                     # Extract channel saved date
                     if "Channel saved at" in line:
                         date_str = line.replace("Channel saved at ", "").strip()
-                        current_date = datetime.strptime(date_str, '%a %b %d %H:%M:%S %Y')
+                        log_section_datetime = datetime.strptime(date_str, '%a %b %d %H:%M:%S %Y')
                         continue
-                    
+
                     # Skip if we haven't found a channel saved date yet
-                    if not current_date:
+                    if not log_section_datetime:
                         continue
 
                     # Extract timestamp from line
                     timestamp_match = re.match(r'(\d{2}:\d{2})', line)
                     if timestamp_match:
-                        time_str = timestamp_match.group(1)
+                        line_time_str = timestamp_match.group(1)
                         # Create a datetime object for the line by combining current_date with line time
-                        line_datetime = current_date.replace(
-                            hour=int(time_str.split(':')[0]),
-                            minute=int(time_str.split(':')[1]),
-                            second=0,
-                            microsecond=0
-                        )
-                        
+                            
+                        try:
+                            read_line_hour = int(line_time_str.split(':')[0])
+                            read_line_minute = int(line_time_str.split(':')[1])
+
+                            if (log_section_datetime.hour == 0 and read_line_hour == 23):
+                                line_datetime = log_section_datetime.replace(
+                                    day=log_section_datetime.day - 1,
+                                    hour=read_line_hour,
+                                    minute=read_line_minute,
+                                    second=0,
+                                    microsecond=0
+                                )
+                            else:
+                                line_datetime = log_section_datetime.replace(
+                                    hour=read_line_hour,
+                                    minute=read_line_minute,
+                                    second=0,
+                                    microsecond=0
+                                )
+                        except ValueError as e:
+                            print(f"ValueError: {e}, Line: {line}")
+                            continue # Skip to the next line
+
                         # Process line if it's after start_time
                         if line_datetime >= self.start_time:
                             self.process_line(line)
